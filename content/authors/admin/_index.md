@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Prof. Dr. Roman Rietsche
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Roman
+last_name: Rietsche
 
 # Status emoji
 status:
