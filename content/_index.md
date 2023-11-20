@@ -181,40 +181,40 @@ sections:
 
 
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      items: 
-        - title: Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich (invitation by Prof. Dr. Daniella Laureiro Martinez).
-          date_start: '2021-01-25'
-          description: ''
-          organization: ETH
-          url: ''
-    design:
-      columns: '2'
+ # - block: collection
+ #   id: talks
+ #   content:
+ #     title: Recent & Upcoming Talks
+ #     items: 
+ ##       - title: Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich (invitation by Prof. Dr. Daniella Laureiro Martinez).
+ #         date_start: '2021-01-25'
+ ##         description: ''
+ #         organization: ETH
+ ##         url: ''
+ #   design:
+ #     columns: '2'
       
       
-  - block: accomplishments
-    content:
+#  - block: accomplishments
+#    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+#      title: 'Accomplish&shy;ments'
+#      subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+#      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Neural Networks and Deep Learning
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          url: ''
-    design:
-      columns: '2'
+#      items:
+#        - title: Neural Networks and Deep Learning
+#          date_start: '2021-01-25'
+#          description: ''
+#          organization: Coursera
+#          url: ''
+#    design:
+#      columns: '2'
 
   - block: contact
     id: contact
