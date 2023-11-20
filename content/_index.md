@@ -120,30 +120,56 @@ sections:
 ##   Courses
 ############
 
-education:
-  courses:
-    - course: Digital Enterprise (B.Sc. Information Systems)
-      institution: Bern University of Applied Sciences
-      year: 2023
-    - course: AI for Business (M.Sc. Digital Business)
-      institution: Bern University of Applied Sciences
-      year: 2023
-    - course: Digital Business Management (M.Sc. Digital Business Administration)
-      institution: Bern University of Applied Sciences
-      year: 2023
-      
-    - course: Engineering the Companies Digital Core (M.Sc. Computer Science)
-      institution: University of St.Gallen
-      year: 2023
-    - course: Business Innovation II (M.Sc. Business Innovation)
-      institution: University of St.Gallen
-      year: 2023
-    - course: 'Prompt Engineering: Innovation through generative AI (M.Sc. Business Innovation)'
-      institution: University of St.Gallen
-      year: 2023
-    - course: Prompt Engineering (Executive Education)
-      institution: University of St.Gallen
-      year: 2023
+
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Current Teaching'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Digital Enterprise (B.Sc. Information Systems)
+          date_start: '2024-02-01'
+          description: ''
+          organization: Bern University of Applied Sciences
+          url: ''
+        - title: AI for Business (M.Sc. Digital Business)
+          date_start: '2023-09-01'
+          description: ''
+          organization: Bern University of Applied Sciences
+          url: ''
+        - title: Digital Business Management (M.Sc. Digital Business Administration)
+          date_start: '2024-09-01'
+          description: ''
+          organization: Bern University of Applied Sciences
+          url: ''
+        - title: Engineering the Companies Digital Core (M.Sc. Computer Science)
+          date_start: '2024-02-01'
+          description: ''
+          organization: University of St.Gallen
+          url: ''
+        - title: Business Innovation II (M.Sc. Business Innovation)
+          date_start: '2023-09-01'
+          description: ''
+          organization: University of St.Gallen
+          url: ''
+        - title: 'Prompt Engineering: Innovation through generative AI (M.Sc. Business Innovation)'
+          date_start: '2023-09-01'
+          description: ''
+          organization: University of St.Gallen
+          url: ''
+        - title: Prompt Engineering (Executive Education)
+          date_start: '2023-09-01'
+          description: ''
+          organization: University of St.Gallen
+          url: ''
+
 
 
 
