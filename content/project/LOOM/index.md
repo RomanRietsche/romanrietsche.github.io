@@ -6,14 +6,14 @@ tags:
 date: '2016-06-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://loom.iwi.unisg.ch/en/#/bfh/login'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-url_code: 'https://loom.iwi.unisg.ch/en/#/unistgallen/login'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
