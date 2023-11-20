@@ -29,27 +29,44 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Professor
+          company: Bern University of Applied Sciences
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: bfh
+          date_start: '2023-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Research Interests:
+              1. Developing effective information systems that embed artificial intelligence and large language models.
+              2. Designing and measuring behavior change through digital interventions.
+              3. Evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling 
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+            
+        - title: External Lecturer
+          company: University of St. Gallen 
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: hsg
+          date_start: '2020-09-01'
+          date_end: ''
+          description: Teaching courses in Master of Business Innovation, Master in Computer Science and Executive Education    
+
+        - title: Phd and later research group leader and postdoctoral fellow
+          company: Prof. Dr. Jan Marco Leimeister, Institute of Information Systems, University of St. Gallen 
+          company_url: ''
+          company_logo: hsg
+          date_start: '2016-06-01'
+          date_end: '2023-09-31'
+          description: 
+      
+        - title: Senior Systems Engineer
+          company: Leitwerk AG
+          company_url: ''
+          company_logo: leitwerk
+          date_start: '2013-12-01'
+          date_end: '2016-05-31'
+          description: 
+
+
     design:
       columns: '2'
       
@@ -99,6 +116,35 @@ sections:
       columns: '2'
       view: citation
       
+############
+##   Courses
+############
+
+education:
+  courses:
+    - course: Digital Enterprise (B.Sc. Information Systems)
+      institution: Bern University of Applied Sciences
+      year: 2023
+    - course: AI for Business (M.Sc. Digital Business)
+      institution: Bern University of Applied Sciences
+      year: 2023
+    - course: Digital Business Management (M.Sc. Digital Business Administration)
+      institution: Bern University of Applied Sciences
+      year: 2023
+      
+    - course: Engineering the Companies Digital Core (M.Sc. Computer Science)
+      institution: University of St.Gallen
+      year: 2023
+    - course: Business Innovation II (M.Sc. Business Innovation)
+      institution: University of St.Gallen
+      year: 2023
+    - course: 'Prompt Engineering: Innovation through generative AI (M.Sc. Business Innovation)'
+      institution: University of St.Gallen
+      year: 2023
+    - course: Prompt Engineering (Executive Education)
+      institution: University of St.Gallen
+      year: 2023
+
 
 
   - block: collection

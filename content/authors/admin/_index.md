@@ -23,37 +23,10 @@ organizations:
 bio: My research interests include AI in Education, Human-centered Re- and Upskilling Digital Interventions.
 
 # Interests to show in About widget
-interests:
-  - Generative AI
-  - Large Language Models
-  - Digital Interventions
+
+
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Digital Enterprise (B.Sc. Information Systems)
-      institution: Bern University of Applied Sciences
-      year: 2023
-    - course: AI for Business (M.Sc. Digital Business)
-      institution: Bern University of Applied Sciences
-      year: 2023
-    - course: Digital Business Management (M.Sc. Digital Business Administration)
-      institution: Bern University of Applied Sciences
-      year: 2023
-      
-    - course: Engineering the Companies Digital Core (M.Sc. Computer Science)
-      institution: University of St.Gallen
-      year: 2023
-    - course: Business Innovation II (M.Sc. Business Innovation)
-      institution: University of St.Gallen
-      year: 2023
-    - course: 'Prompt Engineering: Innovation through generative AI (M.Sc. Business Innovation)'
-      institution: University of St.Gallen
-      year: 2023
-    - course: Prompt Engineering (Executive Education)
-      institution: University of St.Gallen
-      year: 2023
-
 
 
 # Social/Academic Networking
@@ -89,3 +62,4 @@ highlight_name: true
 
 Roman Rietsche is a researcher at the Institute for Digital Technology Management at Bern University of Applied Sciences. His research focuses on digital feedback, designing and developing innovative learning systems using generative AI and natural language processing, and developing a framework for human-centered re- and upskilling in organizations.
 {style="text-align: justify;"}
+
