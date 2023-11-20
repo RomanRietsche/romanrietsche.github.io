@@ -63,7 +63,7 @@ sections:
           company_url: ''
           company_logo: 
           date_start: '2016-06-01'
-          date_end: '2023-09-31'
+          date_end: '2023-09-30'
           description: 
       
         - title: Senior Systems Engineer
