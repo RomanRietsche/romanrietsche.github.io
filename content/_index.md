@@ -17,14 +17,14 @@ sections:
 #    id: Teaching
 #    content:
       
-  - block: logos
-    content:
-      title: Section Title
-      subtitle: Section Subtitle
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'  
+#  - block: logos
+#    content:
+#      title: Section Title
+#      subtitle: Section Subtitle
+#      # Path to the logo images within the `assets/media/` folder
+#      logo_folder: logos
+#    design:
+#      columns: '1'  
 
   - block: experience
     content:
@@ -98,6 +98,8 @@ sections:
           tag: '*'
         - name: LOOM
           tag: LOOM
+        - name: SCESC
+          tag: SCESC
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
