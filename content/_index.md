@@ -99,15 +99,20 @@ sections:
       columns: '2'
       view: citation
       
+
+
   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
-      text: Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich (invitation by Prof. Dr. Daniella Laureiro Martinez).
-
+      items: 
+        - title: Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich (invitation by Prof. Dr. Daniella Laureiro Martinez).
+          date_start: '2021-01-25'
+          description: ''
+          organization: ETH
+          url: ''
     design:
       columns: '2'
-      view: compact
       
       
   - block: accomplishments
