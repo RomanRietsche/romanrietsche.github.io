@@ -17,6 +17,15 @@ sections:
 #    id: Teaching
 #    content:
       
+  - block: logos
+    content:
+      title: Section Title
+      subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: brands
+    design:
+      columns: '1'  
+
   - block: experience
     content:
       title: Experience
@@ -32,7 +41,7 @@ sections:
         - title: Professor
           company: Bern University of Applied Sciences
           company_url: ''
-          company_logo: bfh
+          company_logo: 
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
@@ -40,12 +49,11 @@ sections:
               1. Developing effective information systems that embed artificial intelligence and large language models.
               2. Designing and measuring behavior change through digital interventions.
               3. Evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling 
-
             
         - title: External Lecturer
           company: University of St. Gallen 
           company_url: ''
-          company_logo: hsg
+          company_logo: 
           date_start: '2020-09-01'
           date_end: ''
           description: Teaching courses in Master of Business Innovation, Master in Computer Science and Executive Education    
@@ -53,7 +61,7 @@ sections:
         - title: Phd and later research group leader and postdoctoral fellow
           company: Prof. Dr. Jan Marco Leimeister, Institute of Information Systems, University of St. Gallen 
           company_url: ''
-          company_logo: hsg
+          company_logo: 
           date_start: '2016-06-01'
           date_end: '2023-09-31'
           description: 
@@ -61,12 +69,10 @@ sections:
         - title: Senior Systems Engineer
           company: Leitwerk AG
           company_url: ''
-          company_logo: leitwerk
+          company_logo:
           date_start: '2013-12-01'
           date_end: '2016-05-31'
           description: 
-
-
     design:
       columns: '2'
       
