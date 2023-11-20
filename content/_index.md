@@ -116,7 +116,7 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -124,7 +124,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         -  date_end: ''
-        -  date_start: '2021'
+        -  date_start: '2021-01-01'
         -  description: ''
         -  organization: ICIS
         -  title: Best Associate Editor in Track, International Conference on Information Systems (ICIS)
