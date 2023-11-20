@@ -22,7 +22,7 @@ sections:
       title: Section Title
       subtitle: Section Subtitle
       # Path to the logo images within the `assets/media/` folder
-      logo_folder: brands
+      logo_folder: icons/brands
     design:
       columns: '1'  
 
