@@ -123,12 +123,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        -  date_end: '2021-01-01'
-        -  date_start: '2021-01-01'
-        -  description: ''
-        -  organization: ICIS
-        -  title: Best Associate Editor in Track, International Conference on Information Systems (ICIS)
-        -  url: ''
+        - title: Neural Networks and Deep Learning
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          url: ''
     design:
       columns: '2'
 
