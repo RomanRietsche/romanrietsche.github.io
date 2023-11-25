@@ -4,8 +4,8 @@ title:
 type: landing
 
 sections:
-#about.bibliography not working
-  - block: about.avatar
+# not working
+  - block: about.bibliography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -13,9 +13,6 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
         
-#  - block: education
-#    id: Teaching
-#    content:
       
 #  - block: logos
 #    content:

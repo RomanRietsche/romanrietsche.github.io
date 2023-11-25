@@ -1,0 +1,15 @@
+*.pyc
+.DS_Store
+*.egg-info/
+build/
+dist/
+site/
+.idea/
+.tox/
+.cache/
+
+# Test data - temp files
+.ipynb_checkpoints
+
+# Trial runs
+output/
