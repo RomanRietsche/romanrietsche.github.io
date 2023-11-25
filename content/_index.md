@@ -27,6 +27,7 @@ sections:
 #      columns: '1'  
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -50,6 +51,14 @@ sections:
               2. Designing and measuring behavior change through digital interventions.
               3. Evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling 
             
+        - title: 'Head of Research Lab for AI-based re- and upskilling (LAIRU)'
+          company: Bern University of Applied Sciences
+          date_start: '2023-10-01'
+          description: |2-
+              * Development of AI tools e.g.: for digital onboarding, personalized learning paths, automated situative judgement tests
+              * Design of a holistic Human Centric Re- and Upskilling Framework for organizations
+              * Consulting
+            
         - title: External Lecturer
           company: University of St. Gallen 
           company_url: ''
@@ -58,7 +67,7 @@ sections:
           date_end: ''
           description: Teaching courses in Master of Business Innovation, Master in Computer Science and Executive Education    
 
-        - title: Phd and later research group leader and postdoctoral fellow
+        - title: Research Group Leader, Postdoctoral Fellow and PhD
           company: Prof. Dr. Jan Marco Leimeister, Institute of Information Systems, University of St. Gallen 
           company_url: ''
           company_logo: 
@@ -72,7 +81,10 @@ sections:
           company_logo:
           date_start: '2013-12-01'
           date_end: '2016-05-31'
-          description: 
+          description: |2-
+              * Security Consulting (Firewalls, security concepts)
+              * Network Infrastructure Consulting (Routing, Switching, VPNs)
+              * Founder of the Competence Center for IT Project Management
     design:
       columns: '2'
       
@@ -110,6 +122,7 @@ sections:
             
       
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -130,6 +143,7 @@ sections:
 
 
   - block: accomplishments
+    id: teaching
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Current Teaching'
