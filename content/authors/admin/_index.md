@@ -67,7 +67,7 @@ My research follows three connected work streams: (1) developing effective infor
 
 One of my key achievement is the LOOM feedback system, which has enhanced the educational experience of over 2,000 students across the United States, Germany, and Switzerland. 
 
-In addition, I also lead a significant project, the Swiss Circular Economy of Skills and Competences (SCESC), funded by a 6 million Swiss franc grant from Innosuisse. 
+In addition, I lead a project, the Swiss Circular Economy of Skills and Competences (SCESC), funded by a 6 million Swiss franc grant from Innosuisse. 
 This project unites a multidisciplinary team with researchers from EHB, EPFL, HSG-IWP, HSG-IWI, UZH and ZHAW and the implementation partner Evrlearn.
 
 Collaborations with industry, particularly in digital re-skilling and up-skilling, include partnerships with Siemens AG, Volkswagen AG, and Stifung Brändi.
