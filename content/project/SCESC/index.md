@@ -9,7 +9,7 @@ date: '2022-02-1T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: SCESC
   focal_point: Smart
 
 links:
