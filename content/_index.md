@@ -14,14 +14,14 @@ sections:
       text:
         
       
-  - block: logos
-    content:
-      title: Section Title
-      subtitle: Section Subtitle
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'  
+#  - block: logos
+#    content:
+#      title: Section Title
+#      subtitle: Section Subtitle
+#      # Path to the logo images within the `assets/media/` folder
+#      logo_folder: logos
+#    design:
+#      columns: '1'  
 
   - block: experience
     id: experience
@@ -39,7 +39,7 @@ sections:
         - title: Professor
           company: Bern University of Applied Sciences
           company_url: ''
-          company_logo: 
+          company_logo: bfh
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
@@ -50,6 +50,7 @@ sections:
             
         - title: 'Head of Research Lab for AI-based re- and upskilling (LAIRU)'
           company: Bern University of Applied Sciences
+          company_logo: bfh.png
           date_start: '2023-10-01'
           description: |2-
               * Development of AI tools e.g.: for digital onboarding, personalized learning paths, automated situative judgement tests
@@ -59,7 +60,7 @@ sections:
         - title: External Lecturer
           company: University of St. Gallen 
           company_url: ''
-          company_logo: 
+          company_logo: 'bfh' 
           date_start: '2020-09-01'
           date_end: ''
           description: Teaching courses in Master of Business Innovation, Master in Computer Science and Executive Education    
@@ -67,14 +68,14 @@ sections:
         - title: Research Group Leader, Postdoctoral Fellow and PhD
           company: Prof. Dr. Jan Marco Leimeister, Institute of Information Systems, University of St. Gallen 
           company_url: ''
-          company_logo: 
+          company_logo: 'bfh.png'
           date_start: '2016-06-01'
           date_end: '2023-09-30'
           description: 
       
         - title: Senior Systems Engineer
           company: Leitwerk AG
-          company_url: ''
+          company_url: 'assets/media/logos/bfh.png'
           company_logo:
           date_start: '2013-12-01'
           date_end: '2016-05-31'
