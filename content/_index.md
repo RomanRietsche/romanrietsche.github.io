@@ -39,7 +39,7 @@ sections:
         - title: Professor
           company: Bern University of Applied Sciences
           company_url: ''
-          company_logo: org-gc
+          company_logo: bfh
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
