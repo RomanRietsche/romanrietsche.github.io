@@ -39,7 +39,7 @@ sections:
         - title: Professor
           company: Bern University of Applied Sciences
           company_url: ''
-          company_logo: bfh
+          company_logo: bfh_2
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
@@ -50,7 +50,7 @@ sections:
             
         - title: 'Head of Research Lab for AI-based re- and upskilling (LAIRU)'
           company: Bern University of Applied Sciences
-          company_logo: 
+          company_logo: bfh_2
           date_start: '2023-10-01'
           description: |2-
               * Development of AI tools e.g.: for digital onboarding, personalized learning paths, automated situative judgement tests
@@ -60,7 +60,7 @@ sections:
         - title: External Lecturer
           company: University of St. Gallen 
           company_url: ''
-          company_logo: 
+          company_logo: hsg
           date_start: '2020-09-01'
           date_end: ''
           description: Teaching courses in Master of Business Innovation, Master in Computer Science and Executive Education    
