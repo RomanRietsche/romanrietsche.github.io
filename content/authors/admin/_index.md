@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Dr. |1- Roman Rietsche
+title: Roman Rietsche
 
 # Full name (for SEO)
 first_name: Roman
@@ -59,14 +59,15 @@ email: 'roman.rietsche@bfh.ch'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<h1>In a Glance</h1>
-I hold a Professorship in Digital Technology Management at Bern University of Applied Sciences, specializing at the nexus of educational technology, psychology, and human-computer interaction.
 
-My research is threefold: I develop AI-enhanced information systems, devise digital methods for behavioral modification, and examine how digital technologies influence organizational learning. This involves creating digital feedback mechanisms, innovating learning systems through generative AI and natural language processing, and formulating a human-centered framework for re-skilling and up-skilling within organizations.
+I hold a professorship in Digital Technology Management at Bern University of Applied Sciences, specializing at the nexus of educational technology, psychology, and human-computer interaction.
 
-A key achievement is the LOOM feedback system, which has enhanced the educational experience of over 2,000 students across the United States, Germany, and Switzerland.
+My research follows three connected work streams: (1) developing effective information systems that embed artificial intelligence and large language models, 
+(2) designing and measuring behavior change through digital interventions, and (3) evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling.
 
-I also lead a significant project, the Swiss Circular Economy of Skills and Competences (SCESC), funded by a 6 million Swiss franc grant from Innosuisse. 
+One of my key achievement is the LOOM feedback system, which has enhanced the educational experience of over 2,000 students across the United States, Germany, and Switzerland. 
+
+In addition, I also lead a significant project, the Swiss Circular Economy of Skills and Competences (SCESC), funded by a 6 million Swiss franc grant from Innosuisse. 
 This project unites a multidisciplinary team with researchers from EHB, EPFL, HSG-IWP, HSG-IWI, UZH and ZHAW and the implementation partner Evrlearn.
 
 Collaborations with industry, particularly in digital re-skilling and up-skilling, include partnerships with Siemens AG, Volkswagen AG, and Stifung Brändi.
