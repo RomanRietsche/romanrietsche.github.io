@@ -7,8 +7,7 @@ authors:
 - Matthias Söllner
 date: '2020-01-01'
 publishDate: '2023-11-25T20:25:03.003198Z'
-publication_types:
-- manuscript
+publication_types: ['paper-conference']
 links:
 - name: URL
   url: 
