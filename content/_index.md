@@ -64,14 +64,14 @@ sections:
         - title: 'Research visit'
           company: Cambridge Assessment and Department of Computer Science and Technology - University of Cambridge
           company_logo: cam
-          date_start: '2019-6-01'
+          date_start: '2019-06-01'
           date_end: '2020-01-30'
           description:
 
         - title: 'Research visit'
           company: Fox School of Business - Temple University
           company_logo: temple
-          date_start: '2019-1-01'
+          date_start: '2019-01-01'
           date_end: '2019-05-30'
           description:
   
