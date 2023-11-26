@@ -5,7 +5,7 @@ type: landing
 
 sections:
 # not working
-  - block: about.avatar
+  - block: hero
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -109,7 +109,6 @@ sections:
           tag: LOOM
         - name: SCESC
           tag: SCESC
-
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

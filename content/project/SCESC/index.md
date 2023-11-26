@@ -3,7 +3,7 @@ title: Swiss Circular Economy of Skills and Competences (SCESC)
 summary: This project promotes an unprecedented learning experience for advanced trainers, who are to be supported in an integrated manner with the help of a platform based on the circular economy model. The objectives of this project include the promotion of current and medium-term qualification needs, the full utilization of the competence portfolio of the trainee, which is realized with the help of a continuous comparison of individual qualification needs and advanced training opportunities, as well as the support of individual competence development by a digital coach. The project is scheduled to run for three and a half years, starting in February 2022 and ending in summer 2025. Dr. Roman Rietsche is the overall project manager.
 tags:
   - SCESC
-date: '2022-02-1T00:00:00Z'
+date: '2022-02-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
