@@ -59,7 +59,18 @@ email: 'roman.rietsche@bfh.ch'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<h1>In a Glance</h1>
+I hold a Professorship in Digital Technology Management at Bern University of Applied Sciences, specializing at the nexus of educational technology, psychology, and human-computer interaction.
 
-Roman Rietsche is a researcher at the Institute for Digital Technology Management at Bern University of Applied Sciences. His research focuses on digital feedback, designing and developing innovative learning systems using generative AI and natural language processing, and developing a framework for human-centered re- and upskilling in organizations.
+My research is threefold: I develop AI-enhanced information systems, devise digital methods for behavioral modification, and examine how digital technologies influence organizational learning. This involves creating digital feedback mechanisms, innovating learning systems through generative AI and natural language processing, and formulating a human-centered framework for re-skilling and up-skilling within organizations.
+
+A key achievement is the LOOM feedback system, which has enhanced the educational experience of over 2,000 students across the United States, Germany, and Switzerland.
+
+I also lead a significant project, the Swiss Circular Economy of Skills and Competences (SCESC), funded by a 6 million Swiss franc grant from Innosuisse. 
+This project unites a multidisciplinary team with researchers from EHB, EPFL, HSG-IWP, HSG-IWI, UZH and ZHAW and the implementation partner Evrlearn.
+
+Collaborations with industry, particularly in digital re-skilling and up-skilling, include partnerships with Siemens AG, Volkswagen AG, and Stifung Brändi.
+
+
 {style="text-align: justify;"}
 
