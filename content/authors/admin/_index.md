@@ -70,7 +70,7 @@ One of my key achievement is the LOOM feedback system, which has enhanced the ed
 In addition, I lead a project, the Swiss Circular Economy of Skills and Competences (SCESC), funded by a 6 million Swiss franc grant from Innosuisse. 
 This project unites a multidisciplinary team with researchers from EHB, EPFL, HSG-IWP, HSG-IWI, UZH and ZHAW and the implementation partner Evrlearn.
 
-Collaborations with industry, particularly in digital re-skilling and up-skilling, include partnerships with Siemens AG, Volkswagen AG, and Stifung Brändi.
+Collaborations with industry, particularly in digital re-skilling and up-skilling, include partnerships with Siemens AG, Volkswagen AG, and Stiftung Brändi.
 
 
 {style="text-align: justify;"}
