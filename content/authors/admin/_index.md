@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Dr. Roman Rietsche
+title: Prof. Dr. |1- Roman Rietsche
 
 # Full name (for SEO)
 first_name: Roman
