@@ -122,7 +122,7 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text:
+      text: [filteringpublications](./publication/)
       filters:
         folders:
           - publication
