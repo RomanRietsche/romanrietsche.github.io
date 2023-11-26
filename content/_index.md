@@ -48,15 +48,11 @@ sections:
               2. Designing and measuring behavior change through digital interventions.
               3. Evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling 
             
-        - title: 'Head of Research Lab for AI-based re- and upskilling (LAIRU)'
-          company: Bern University of Applied Sciences
-          company_logo: bfh_2
-          date_start: '2023-10-01'
-          description: |2-
-              * Development of AI tools e.g.: for digital onboarding, personalized learning paths, automated situative judgement tests
-              * Design of a holistic Human Centric Re- and Upskilling Framework for organizations
-              * Consulting
-            
+              Head of Research Lab for AI-based re- and upskilling (LAIRU) 
+                * Development of AI tools e.g.: for digital onboarding, personalized learning paths, automated situative judgement tests
+                * Design of a holistic Human Centric Re- and Upskilling Framework for organizations
+                * Consulting
+                        
         - title: External Lecturer
           company: University of St. Gallen 
           company_url: ''
@@ -65,18 +61,32 @@ sections:
           date_end: ''
           description: Teaching courses in Master of Business Innovation, Master in Computer Science and Executive Education    
 
+        - title: 'Research visit'
+          company: Cambridge Assessment and Department of Computer Science and Technology - University of Cambridge
+          company_logo: cam
+          date_start: '2019-6-01'
+          date_end: '2020-01-30'
+          description:
+
+        - title: 'Research visit'
+          company: Fox School of Business - Temple University
+          company_logo: temple
+          date_start: '2019-1-01'
+          date_end: '2019-05-30'
+          description:
+  
         - title: Research Group Leader, Postdoctoral Fellow and PhD
           company: Prof. Dr. Jan Marco Leimeister, Institute of Information Systems, University of St. Gallen 
           company_url: ''
-          company_logo:
+          company_logo: hsg
           date_start: '2016-06-01'
           date_end: '2023-09-30'
-          description: 
-      
+          description:     
+
         - title: Senior Systems Engineer
           company: Leitwerk AG
           company_url:
-          company_logo:
+          company_logo: leitwerk
           date_start: '2013-12-01'
           date_end: '2016-05-31'
           description: |2-
