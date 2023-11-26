@@ -46,7 +46,7 @@ jobs:
             Import the latest publications from `publications.bib` to `content/publication/`.
           base: master
           labels: automated-pr, content
-          branch: master
+          branch: hugoblox-import-publications
           delete-branch: true
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
