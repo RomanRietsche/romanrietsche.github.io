@@ -25,3 +25,10 @@ url_video: ''
 #slides: example
 ---
 
+### Research Methods, Research Questions etc.: ###
+
+Creswell, J. W., & Creswell, J. D. (2017). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (5th). SAGE Publications, Inc.
+
+Leavy, P. (2017). Research design: Quantitative, qualitative, mixed methods, arts-based, and community-based participatory research approaches. The Guilford Press. 
+
+Recker, J. (2021). Scientific Research in Information Systems. Springer. https://doi.org/10.1007/978-3-030-85436-2_7
