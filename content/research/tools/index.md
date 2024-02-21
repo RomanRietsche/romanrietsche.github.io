@@ -1,14 +1,14 @@
 ---
-title: Main Articles for Design Science Research
-summary: DSR
+title: Research Tools
+summary: tools
 tags:
-  - dsr
+  - tools
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: DSR
+  caption: Research Tools
   focal_point: Smart
 
 links:
@@ -24,4 +24,11 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+### Literature Review: ### 
+
+https://elicit.com/
+https://harzing.com/resources/publish-or-perish
+https://www.semanticscholar.org/    
+https://scholarai.io/
 
