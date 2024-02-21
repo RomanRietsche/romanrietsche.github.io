@@ -128,7 +128,7 @@ sections:
       flip_alt_rows: false
         
   - block: portfolio
-    id: Research
+    id: research
     content:
       title: Research Methods
       filters:
