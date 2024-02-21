@@ -2,7 +2,7 @@
 title: Main Articles for Design Science Research
 summary: DSR
 tags:
-  - dsr
+  - qual
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
