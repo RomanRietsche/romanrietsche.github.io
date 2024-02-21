@@ -1,9 +1,10 @@
 ---
 title: Research Tools
-summary: https://elicit.com/
-https://harzing.com/resources/publish-or-perish
-https://www.semanticscholar.org/    
-https://scholarai.io/
+summary: 
+  - https://elicit.com/
+  - https://harzing.com/resources/publish-or-perish
+  - https://www.semanticscholar.org/    
+  - https://scholarai.io/
 tags:
   - tools
 
