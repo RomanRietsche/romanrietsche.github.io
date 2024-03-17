@@ -4,18 +4,6 @@ summary:
 tags:
   - general
 
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: 
-  focal_point: Smart
-
-links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
