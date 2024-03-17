@@ -1,6 +1,9 @@
 ---
 title: Research Tools
 summary: AI Tools to improve the research process
+tags:
+  - tools
+  
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
@@ -24,8 +27,8 @@ url_video: ''
 
 ### Literature Review: ### 
 
-  - https://elicit.com/
-  - https://harzing.com/resources/publish-or-perish
-  - https://www.semanticscholar.org/    
-  - https://scholarai.io/
+  + https://elicit.com/
+  + https://harzing.com/resources/publish-or-perish
+  + https://www.semanticscholar.org
+  + https://scholarai.io/
 

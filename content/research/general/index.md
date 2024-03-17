@@ -1,11 +1,12 @@
 ---
 title: Must read articles for research design
-summary: Research Design  
-  Research Questions
-  What is a theory
+summary: Research Design, Research Questions, What is a theory
 tags:
   - general
 
+image:
+  caption: qual
+  focal_point: Smart
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -33,3 +34,12 @@ Mueller, B. (2021). The theorizing trifecta. Journal of Information Technology, 
 Burton-Jones, A., McLean, E. R., & Monod, E. (2015). Theoretical perspectives in IS research: from variance and process to conceptual latitude and conceptual fit. European Journal of Information Systems, 24(6), 664–679. https://doi.org/10.1057/ejis.2014.31
 
 Gregor, S. (2006). The nature of theory in information systems. MIS Quarterly, 30(3), 611–642.
+
+### Research Gap ### 
+
+Rai, A. (2017). Editor's comments: avoiding type III errors: formulating IS research problems that matter. MIS Quarterly, 41(2), iii–vii.
+
+
+### Explain or Predict ? ### 
+
+Shmueli, G. (2010). To Explain or to Predict? Statistical Science, 25(3), 289–310. https://doi.org/10.1214/10-STS330
