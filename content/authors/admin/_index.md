@@ -12,7 +12,7 @@ last_name: Rietsche
 superuser: true
 
 # Role/position/tagline
-role: Professor for Information Systems and AI
+role: Research Professor for Information Systems and AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
