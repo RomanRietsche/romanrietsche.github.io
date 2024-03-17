@@ -1,5 +1,5 @@
 ---
-title: Qualitative
+title: Qualitative Research
 summary:
 tags:
   - qual
@@ -8,7 +8,7 @@ tags:
 external_link: ''
 
 image:
-  caption: DSR
+  caption: qual
   focal_point: Smart
 
 links:

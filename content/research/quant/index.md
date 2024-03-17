@@ -8,7 +8,7 @@ tags:
 external_link: ''
 
 image:
-  caption: DSR
+  caption: quant
   focal_point: Smart
 
 links:

@@ -1,6 +1,6 @@
 ---
 title: Research Tools
-summary:
+summary: AI Tools to improve the research process
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
