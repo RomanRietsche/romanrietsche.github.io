@@ -1,9 +1,6 @@
 ---
 title: Research Tools
-
-tags:
-  - tools
-
+summary:
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 

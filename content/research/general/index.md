@@ -1,6 +1,6 @@
 ---
 title: Must read articles for research design
-summary: Research Design
+summary:
 tags:
   - general
 

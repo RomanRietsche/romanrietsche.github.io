@@ -1,6 +1,6 @@
 ---
-title: Main Articles for Design Science Research
-summary: DSR
+title: Qualitative
+summary:
 tags:
   - qual
 
