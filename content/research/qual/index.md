@@ -1,6 +1,5 @@
 ---
-title: Qualitative Research
-summary:
+summary: Qualitative Research
 tags:
   - qual
 
