@@ -138,7 +138,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: coders.jpg
+              filename: 
               filters:
                 brightness: 0.7
             position: right
@@ -150,7 +150,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: contact.jpg
+              filename: 
               filters:
                 brightness: 0.7
             position: center
@@ -162,7 +162,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: welcome.jpg
+              filename: 
               filters:
                 brightness: 0.5
             position: center
