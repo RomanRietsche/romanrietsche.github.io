@@ -1,5 +1,6 @@
 ---
-summary: Qualitative Research
+title: Qualitative Research
+summary: Conducting semi-structured interviews, coding 
 tags:
   - qual
 
@@ -23,8 +24,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
-### Conducting semi-structured interviews, coding ###
 
 Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). Qualitative data analysis: A methods sourcebook (Edition 3). Sage.
 

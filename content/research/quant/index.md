@@ -1,6 +1,6 @@
 ---
 title: Quant
-summary:
+summary: Quantitative Research Design, Experiments, Evaluation
 tags:
   - quant
 
