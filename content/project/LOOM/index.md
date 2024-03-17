@@ -3,7 +3,7 @@ title: Learning Objective and Outcome Manager (LOOM)
 summary: 
 tags:
   - LOOM
-date: '2016-06-1T00:00:00Z'
+date: '2016-06-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

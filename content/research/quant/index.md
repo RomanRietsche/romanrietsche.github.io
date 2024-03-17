@@ -8,7 +8,6 @@ tags:
 external_link: ''
 
 image:
-  caption: quant
   focal_point: Smart
 
 links:

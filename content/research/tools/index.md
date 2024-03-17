@@ -8,7 +8,6 @@ tags:
 external_link: ''
 
 image:
-  caption: Research Tools
   focal_point: Smart
 
 links:
