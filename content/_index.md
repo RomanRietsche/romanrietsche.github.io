@@ -97,8 +97,7 @@ sections:
       columns: '2'
       
 
-      
-      
+    
   - block: portfolio
     id: projects
     content:
@@ -127,7 +126,8 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
         
-sections:
+
+
   - block: slider
     content:
       slides:
@@ -143,6 +143,7 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
+            
         - title: Lunch & Learn ☕️
           content: 'Share your knowledge with the group and explore exciting new topics together!'
           align: left
@@ -155,6 +156,7 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
+            
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right

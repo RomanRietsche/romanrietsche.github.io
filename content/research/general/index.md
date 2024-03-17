@@ -1,6 +1,9 @@
 ---
 title: Must read articles for research design
-summary:
+summary: 
+  - Research Design
+  - Research Questions
+  - What is a theory
 tags:
   - general
 
@@ -20,3 +23,7 @@ Creswell, J. W., & Creswell, J. D. (2017). Research Design: Qualitative, Quantit
 Leavy, P. (2017). Research design: Quantitative, qualitative, mixed methods, arts-based, and community-based participatory research approaches. The Guilford Press. 
 
 Recker, J. (2021). Scientific Research in Information Systems. Springer. https://doi.org/10.1007/978-3-030-85436-2_7
+
+
+### Theory: ###
+
