@@ -8,7 +8,7 @@ tags:
 external_link: ''
 
 image:
-  focal_point: Smart
+  focal_point: Top
 
 links:
 url_code: ''

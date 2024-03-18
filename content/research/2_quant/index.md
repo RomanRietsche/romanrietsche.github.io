@@ -1,5 +1,5 @@
 ---
-title: Quant
+title: Quantitative Research
 summary: Quantitative Research Design, Experiments, Evaluation
 tags:
   - quant
