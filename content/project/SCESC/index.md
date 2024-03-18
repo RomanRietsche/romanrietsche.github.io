@@ -26,8 +26,6 @@ url_video: ''
 #slides: example
 ---
 
-<h1> Swiss Circular Economy of Skills and Competences </h1>
-
 <h3> Learning at the cutting edge - for advanced training </h3>
 
 
