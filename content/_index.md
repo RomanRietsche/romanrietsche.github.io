@@ -146,20 +146,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Must Read 
-          tag: general
-        - name: Quantitative
-          tag: quant
-        - name: Qualitative
-          tag: qual
-        - name: Design Science
-          tag: dsr
-        - name: Tools
-          tag: tools
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: Card
+      view: Compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false  
       
