@@ -51,6 +51,9 @@ footer:
 
 # Localization
 
+#   date_format: '01/02/2006'
+#  time_format: '13:04'
+
 locale:
   date_format: ' '
   time_format: ' '

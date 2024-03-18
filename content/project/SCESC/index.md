@@ -26,9 +26,9 @@ url_video: ''
 #slides: example
 ---
 
-Swiss Circular Economy of Skills and Competences
+<h1> Swiss Circular Economy of Skills and Competences </h1>
 
-Learning at the cutting edge - for advanced training
+<h3> Learning at the cutting edge - for advanced training </h3>
 
 
 Lifelong learning and acquiring the latest professional skills based on the circular economy model: this is what the new continuing education platform "Swiss Circular Economy of Skills and Competences" (SCESC) aims to make possible. Five Swiss universities have been working on the implementation of the Innosuisse flagship project since February 2022.
