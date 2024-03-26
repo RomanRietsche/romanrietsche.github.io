@@ -9,7 +9,6 @@ date: '2022-02-01'
 external_link: ''
 
 image:
-  caption: SCESC
   focal_point: Smart
 
 links:

@@ -9,7 +9,6 @@ date: '2016-06-01'
 external_link: ''
 
 image:
-  caption: LOOM
   focal_point: Smart
 
 links:
