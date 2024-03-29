@@ -32,6 +32,10 @@ Mertens, W., Pugliese, A., & Recker, J. (2017). Quantitative Data Analysis: A co
 
 Millsap, R. E., & Maydeu-Olivares, A. (2009). The SAGE handbook of quantitative methods in psychology. Sage Publications. 
 
+### Survey creation, validity, reliabilty, contstructs, experiment setup ###
+
+https://conjointly.com/kb/
+
 ### Evaluation
 
 Backhaus, K., Erichson, B., Plinke, W., & Weiber, R. (2016). Multivariate Analysemethoden: Eine anwendungsorientierte Einführung (14., überarbeitete und aktualisierte Auflage). Lehrbuch. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-46076-4

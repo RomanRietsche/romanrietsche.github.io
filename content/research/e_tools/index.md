@@ -31,3 +31,10 @@ url_video: ''
   + https://www.semanticscholar.org
   + https://scholarai.io/
 
+### Find Items and Constructs ###
+  + https://theoryon.org/
+
+### Theories in Information Systems ###
+
+https://is.theorizeit.org/wiki/Main_Page
+

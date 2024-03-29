@@ -16,7 +16,7 @@ image:
 #slides: example
 ---
 
-### Research Methods, Research Questions etc.: ###
+### Research Methods, Research Design, Research Questions etc.: ###
 
 Creswell, J. W., & Creswell, J. D. (2017). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (5th). SAGE Publications, Inc.
 
@@ -38,7 +38,6 @@ Gregor, S. (2006). The nature of theory in information systems. MIS Quarterly, 3
 ### Research Gap ### 
 
 Rai, A. (2017). Editor's comments: avoiding type III errors: formulating IS research problems that matter. MIS Quarterly, 41(2), iii–vii.
-
 
 ### Explain or Predict ? ### 
 
