@@ -127,7 +127,20 @@ sections:
       flip_alt_rows: false
         
 
-
+  - block: collection
+    id: events
+    content:
+      title: Talks & Events
+      items: 
+        - title: "BFH AI in Research"
+          date_start: '2024-11-13'
+          description: ''
+          organization: BFH
+          tags:
+            - bfh_ai_research
+          url: ''
+    design:
+      columns: '2'
 
   - block: portfolio
     id: research
@@ -223,22 +236,6 @@ sections:
           url: ''
 
 
-
-
-  - block: collection
-    id: events
-    content:
-      title: Talks & Events
-      items: 
-        - title: Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich (invitation by Prof. Dr. Daniella Laureiro Martinez).
-          date_start: '2024-011-13'
-          description: ''
-          organization: BFH
-          tags:
-            - bfh_ai_research
-          url: ''
-    design:
-      columns: '2'
       
       
 #  - block: accomplishments
