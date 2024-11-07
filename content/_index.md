@@ -131,13 +131,10 @@ sections:
     content:
       title: Talks & Events
       items: 
-        - title: "BFH AI in Research"
-          date_start: '2024-11-13'
-          description: ''
-          organization: BFH
-          tags:
-            - bfh_ai_research
-          url: ''
+    filters:
+      folders:
+        - events
+    exclude_featured: false
     design:
       columns: '2'
 
