@@ -15,7 +15,8 @@ location: Bern
 #publishDate: '2017-01-01T00:00:00Z'
 
 #authors: []
-tags: [bfh_ai_research]
+tags: 
+  - bfh_ai_research
 
 # Is this a featured talk? (true/false)
 #featured: false
