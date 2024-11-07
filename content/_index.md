@@ -133,7 +133,7 @@ sections:
     filters:
       folders:
         - event
-    exclude_featured: false
+    exclude_featured: true
     design:
       view: article-grid
       columns: 1
