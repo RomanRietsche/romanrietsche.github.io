@@ -1,7 +1,7 @@
 ---
-#title: Research Talk
+title: Workshop BFH AI in Research
 
-#location: Zurich
+location: Bern
 #summary: “Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
@@ -15,7 +15,7 @@
 #publishDate: '2017-01-01T00:00:00Z'
 
 #authors: []
-#tags: []
+tags: [bfh_ai_research]
 
 # Is this a featured talk? (true/false)
 #featured: false
