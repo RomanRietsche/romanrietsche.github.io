@@ -1,7 +1,6 @@
 ---
 title: Main Articles for Design Science Research
 summary: Fundamentals, DSR Method, ADR Method, Design Theory, Evaluation DSR
-date: ' '
 tags:
   - dsr
 

@@ -1,5 +1,0 @@
-{{ if eq .block_template "block_events" }}
-  {{ partial "blocks/block_events" . }}
-{{ else }}
-  {{ warnf "Custom block_template %s not found" .block_template }}
-{{ end }}

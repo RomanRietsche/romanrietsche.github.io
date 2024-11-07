@@ -1,7 +1,6 @@
 ---
 title: Must read articles for research design
 summary: Research Design, Research Questions, What is a theory
-date: ' '
 tags:
   - general
 

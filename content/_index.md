@@ -126,8 +126,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
         
-  - block: custom
-    block_template: "block_events"
+  - block: portfolio
     id: talks
     content:
       title: Talks & Events

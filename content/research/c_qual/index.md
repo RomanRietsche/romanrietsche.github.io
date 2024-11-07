@@ -1,7 +1,6 @@
 ---
 title: Qualitative Research
 summary: Conducting semi-structured interviews, coding 
-date: ' '
 tags:
   - qual
 
