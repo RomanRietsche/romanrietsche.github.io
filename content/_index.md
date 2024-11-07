@@ -132,7 +132,7 @@ sections:
       title: Talks & Events
     filters:
       folders:
-        - event
+        - talk
     exclude_featured: true
     design:
       view: article-grid
