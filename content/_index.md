@@ -127,16 +127,16 @@ sections:
       flip_alt_rows: false
         
   - block: collection
-    id: events
+    id: talks
     content:
       title: Talks & Events
-      items: 
     filters:
       folders:
-        - events
+        - event
     exclude_featured: false
     design:
-      columns: '2'
+      view: article-grid
+      columns: 1
 
   - block: portfolio
     id: research
