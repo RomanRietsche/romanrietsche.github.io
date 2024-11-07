@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Talks/Events
-    url: '#events'
+    url: '#talks'
     weight: 40
   - name: Research Methods
     url: '#research'
