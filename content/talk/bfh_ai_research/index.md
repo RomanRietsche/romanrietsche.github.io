@@ -65,7 +65,21 @@ draft: false  # Ensure it's published
 ---
 
 # Table of Contents
-[TOC]
+1. [Prompts](#prompts)
+    1. [How to Craft Effective Prompts: Key Principles](#how-to-craft-effective-prompts-key-principles)
+2. [Steps to Create Effective ChatGPT Prompt](#steps-to-create-effective-chatgpt-prompt)
+    1. [Example Proposal Writing](#example-proposal-writing)
+3. [Example Phrases for Prompts](#example-phrases-for-prompts)
+4. [Complex Prompt to Understand a New Topic](#complex-prompt-to-understand-a-new-topic)
+    1. [Initial Question Generation](#initial-question-generation)
+    2. [Thematic Clustering and Optimization](#thematic-clustering-and-optimization)
+    3. [Reflective Expansion of Questions](#reflective-expansion-of-questions)
+    4. [Detailed Question Answering with a Structured Template](#detailed-question-answering-with-a-structured-template)
+    5. [Iterative Reflection and Summary](#iterative-reflection-and-summary)
+6. [Prompt Techniques – Using Formula](#prompt-techniques-–-using-formula)
+7. [Complex Few-Shot Learning for Data Tagging](#complex-few-shot-learning-for-data-tagging)
+8. [Chain-of-thoughts (CoT)](#chain-of-thoughts-cot)
+9. [Prompt: Writing & Revision](#prompt-writing-revision)
 
 # Prompts
 
