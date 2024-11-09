@@ -158,7 +158,7 @@ The template should cover why the question is important, what information or act
 
 ---
 
-## Prompt Techniques – Using Formula
+## Prompt Techniques Using Formula
 
 **Acting as [ROLE] perform [TASK] in [FORMAT]: insert unique data**
 
