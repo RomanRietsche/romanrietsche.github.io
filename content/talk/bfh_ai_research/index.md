@@ -69,7 +69,7 @@ draft: false  # Ensure it's published
 2. [Steps to Create Effective ChatGPT Prompt](#steps-to-create-effective-chatgpt-prompt)
 3. [Example Phrases for Prompts](#example-phrases-for-prompts)
 4. [Complex Prompt to Understand a New Topic](#complex-prompt-to-understand-a-new-topic)
-6. [Prompt Techniques – Using Formula](#prompt-techniques-–-using-formula)
+6. [Prompt Techniques – Using Formula](#prompt-techniques-using-formula)
 7. [Complex Few-Shot Learning for Data Tagging](#complex-few-shot-learning-for-data-tagging)
 8. [Chain-of-thoughts (CoT)](#chain-of-thoughts-cot)
 
