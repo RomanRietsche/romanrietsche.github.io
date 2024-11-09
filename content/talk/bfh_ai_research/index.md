@@ -82,7 +82,8 @@ draft: false  # Ensure it's published
 |                             |   (e.g., "Base your translation on the following dictionary where appropriate: `{dictionary}`") |
 
 
-
+<br>
+<br>
 
 ## Steps to Create Effective ChatGPT Prompt
 
@@ -112,6 +113,9 @@ Create, at first, five quantitative measures, and rate your text on them
 Then, revise the text
 Measure the new text again, and show sentence by sentence how the measures improve
 Provide reasoning first
+
+
+
 
 ## Complex Prompt to Understand a New Topic
 
