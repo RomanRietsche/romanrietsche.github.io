@@ -130,9 +130,9 @@ sections:
     id: talks
     content:
       title: Talks & Events
-    filters:
-      folders:
-        - talk
+      filters:
+        folders:
+          - talk
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
