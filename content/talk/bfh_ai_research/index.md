@@ -64,6 +64,9 @@ draft: false  # Ensure it's published
 
 ---
 
+# Table of Contents
+[TOC]
+
 # Prompts
 
 ## How to Craft Effective Prompts: Key Principles
