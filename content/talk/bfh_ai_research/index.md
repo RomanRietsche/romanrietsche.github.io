@@ -213,5 +213,3 @@ Now, let's go through the 30 questions step by step and provide 1-2 specific sen
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
 
 ---
-
-*Berner Fachhochschule | Haute école spécialisée bernoise | Bern University of Applied Sciences*
