@@ -1,7 +1,7 @@
 ---
-title: "AI/KI, ChatGPT und Prompts!?! Einführung in die Welt von KI und praktische Hands-on Tipps und Tricks"
+title: 'AI/KI, ChatGPT und Prompts!?! Einführung in die Welt von KI und praktische Hands-on Tipps und Tricks'
 type: event
-location: "Hotel Banana City"
+location: 'Hotel Banana City'
 #summary: “Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 

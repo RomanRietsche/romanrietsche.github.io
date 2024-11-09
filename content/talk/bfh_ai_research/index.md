@@ -1,5 +1,5 @@
 ---
-title: "Workshop: AI in Research"
+title: 'Workshop: AI in Research'
 type: event
 location: Bern University of Applied Sciences
 #summary: “Enhancing Student Performance Through Technology-Mediated Formative Feedback in Large Scale University Lectures,” Department of Management, Technology, and Economics, ETH Zurich.
