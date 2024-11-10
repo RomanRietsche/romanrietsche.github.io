@@ -96,11 +96,8 @@ draft: false  # Ensure it's published
 ## Steps to Create Effective ChatGPT Prompt
 
 1. **Identify the purpose and focus of the conversation.**
-
 2. **Use specific and relevant language** (e.g., "Act as...").
-
 3. **Avoid open or overly general prompts.**
-
 4. **Review and revise your prompt.**
 
 ### Example Proposal Writing
@@ -117,7 +114,7 @@ Critical self-reflect …
 Improve it by 100% …
 You get 100 dollar tips when you improve it…
 Convince the reader …
-
+<br>
 *Improve Text:*
 Create, at first, five quantitative measures, and rate your text on them
 Then, revise the text
@@ -217,19 +214,16 @@ Let’s work this out in a step by step way to be sure we have the right answer.
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
 
 *Step 1*
-
 Go through the introduction, and in the first step, find mistakes, logical breaks, and weak argumentations.
+<br>
 
 *Step 2*
-
 In the second step, go sentence by sentence and write out the questions a reviewer would have, reading the text, such as what is unclear or vague. Come up with one question per sentence/topic.
-
 Think step by step to come up with the correct solution. Provide detailed reasoning for each step, followed by the correct solution.
 
+<br>
 *Step 3*
-
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
-
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
 
 ---
