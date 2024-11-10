@@ -119,7 +119,8 @@ Convince the reader …
 
 <br>
 
-*Improve Text:*
+**Improve Text:**
+
 Create, at first, five quantitative measures, and rate your text on them
 Then, revise the text
 Measure the new text again, and show sentence by sentence how the measures improve
@@ -138,35 +139,54 @@ Provide reasoning first
 I want to understand “prompt engineering”
 
 ### Initial Question Generation:
-**Step 1**: Generate 10 initial questions about the topic, aiming for a mix of open-ended and closed questions. This variety encourages a broad exploration while also gathering specific details.  
-**Guideline**: Ensure questions cover the what, why, how, and implications related to the topic to ensure a comprehensive initial overview.  
+**Step 1**: 
+Generate 10 initial questions about the topic, aiming for a mix of open-ended and closed questions. This variety encourages a broad exploration while also gathering specific details.  
+
+**Guideline**: 
+Ensure questions cover the what, why, how, and implications related to the topic to ensure a comprehensive initial overview.  
+
 *Ask for my permission to go to the next step!*
 
 <br>
 
 ### Thematic Clustering and Optimization:
-**Step 2**: Determine an "optimal amount" of themes for clustering the questions. Use thematic analysis principles, focusing on patterns and concepts that recur across the initial questions.  
-**Step 3**: Cluster the initial questions into themes based on the identified patterns. Aim for distinct yet comprehensive thematic clusters.  
+**Step 2**: 
+Determine an "optimal amount" of themes for clustering the questions. Use thematic analysis principles, focusing on patterns and concepts that recur across the initial questions.  
+
+**Step 3**: 
+Cluster the initial questions into themes based on the identified patterns. Aim for distinct yet comprehensive thematic clusters.  
+
 *Ask for my permission to go to the next step!*
 
 <br>
 
 ### Reflective Expansion of Questions:
-**Step 4**: Review each theme cluster to identify gaps or emerging insights. Add two more questions for each theme to ensure thorough coverage. For each added question, provide a rationale based on identified gaps or new insights.  
-**Step 5**: Output the final clusters with the set of questions.  
+**Step 4**: 
+Review each theme cluster to identify gaps or emerging insights. Add two more questions for each theme to ensure thorough coverage. For each added question, provide a rationale based on identified gaps or new insights.  
+
+**Step 5**: 
+Output the final clusters with the set of questions.  
+
 *Ask for my permission to go to the next step!*
 
 <br>
 
 ### Detailed Question Answering with a Structured Template:
-**Step 6**: Answer each question in 200 words using a specific template. Tailor the template slightly for questions (e.g., theoretical vs. practical) to allow nuanced responses.  
+
+**Step 6**: 
+
+Answer each question in 200 words using a specific template. Tailor the template slightly for questions (e.g., theoretical vs. practical) to allow nuanced responses.  
 The template should cover why the question is important, what information or actions are needed, and which methods will be used, including examples or analogies. Emphasize reasoning before providing the answer, using a structured step-by-step approach.  
-**Step 7**: After answering a question, ask permission to proceed to the next, ensuring a methodical and reflective process.  
+
+**Step 7**: 
+
+After answering a question, ask permission to proceed to the next, ensuring a methodical and reflective process.  
 *Ask for my permission to go to the next step!*
 
 <br>
 
 ### Iterative Reflection and Summary:
+
 **Step 8**: Conduct a reflective review of all responses after completing the answers. Summarize critical insights, contradictions, and new questions that have emerged. This step fosters a deeper understanding and may highlight further areas of inquiry.
 
 <br>
@@ -195,28 +215,29 @@ The template should cover why the question is important, what information or act
 
 ## Complex Few-Shot Learning for Data Tagging
 
-- Classify the text after *** using the classification definition after +++ and examples for classification after ###.
+Classify the text after *** using the classification definition after +++ and examples for classification after ###.
 
-- +++
+
++++
   { "factual": "Events, personal facts, actions, or known information without personal characteristics or opinions.",
     "cognitive": "Opinions, attitudes, thoughts, personal characteristics, agreement/disagreement statements, and self-disclosure questions.",
     "emotional": "Expressions of emotions towards events, people, or experiences, including self-esteem and emotional words like 'excited', 'hate', 'love', etc.",
     "irrelevant": "Contains general or unrelated statements not related to factual, cognitive or emotional." }
 
-- *Examples:*
+**Examples:**
 
-- *1. Example*
+*1. Example*
   {"text": "Partially in St. Gallen and in Zurich because I am from Zurich.", "answer": "factual"}
 
-- *2. Example*
+*2. Example*
   {"text": "I was in the sports gymnasium and therefore I had to manage school and sport at the same time", "answer": "factual"}
 
-- *3. Example*
+*3. Example*
   {"text": "I am just happy that they aren't in my courses.", "answer": "emotional"}
 
-*To predict*
+**To predict**
 
-- I really like prompt engineering
+I really like prompt engineering
 
 <br>
 
