@@ -116,7 +116,9 @@ Critical self-reflect …
 Improve it by 100% …
 You get 100 dollar tips when you improve it…
 Convince the reader …
+
 <br>
+
 *Improve Text:*
 Create, at first, five quantitative measures, and rate your text on them
 Then, revise the text
@@ -139,23 +141,31 @@ I want to understand “prompt engineering”
 **Step 1**: Generate 10 initial questions about the topic, aiming for a mix of open-ended and closed questions. This variety encourages a broad exploration while also gathering specific details.  
 **Guideline**: Ensure questions cover the what, why, how, and implications related to the topic to ensure a comprehensive initial overview.  
 *Ask for my permission to go to the next step!*
+
 <br>
+
 ### Thematic Clustering and Optimization:
 **Step 2**: Determine an "optimal amount" of themes for clustering the questions. Use thematic analysis principles, focusing on patterns and concepts that recur across the initial questions.  
 **Step 3**: Cluster the initial questions into themes based on the identified patterns. Aim for distinct yet comprehensive thematic clusters.  
 *Ask for my permission to go to the next step!*
+
 <br>
+
 ### Reflective Expansion of Questions:
 **Step 4**: Review each theme cluster to identify gaps or emerging insights. Add two more questions for each theme to ensure thorough coverage. For each added question, provide a rationale based on identified gaps or new insights.  
 **Step 5**: Output the final clusters with the set of questions.  
 *Ask for my permission to go to the next step!*
+
 <br>
+
 ### Detailed Question Answering with a Structured Template:
 **Step 6**: Answer each question in 200 words using a specific template. Tailor the template slightly for questions (e.g., theoretical vs. practical) to allow nuanced responses.  
 The template should cover why the question is important, what information or actions are needed, and which methods will be used, including examples or analogies. Emphasize reasoning before providing the answer, using a structured step-by-step approach.  
 **Step 7**: After answering a question, ask permission to proceed to the next, ensuring a methodical and reflective process.  
 *Ask for my permission to go to the next step!*
+
 <br>
+
 ### Iterative Reflection and Summary:
 **Step 8**: Conduct a reflective review of all responses after completing the answers. Summarize critical insights, contradictions, and new questions that have emerged. This step fosters a deeper understanding and may highlight further areas of inquiry.
 
@@ -223,18 +233,18 @@ Let’s work this out in a step by step way to be sure we have the right answer.
 
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
 
-*Step 1*
+**Step 1**
 Go through the introduction, and in the first step, find mistakes, logical breaks, and weak argumentations.
 
 <br>
 
-*Step 2*
+**Step 2**
 In the second step, go sentence by sentence and write out the questions a reviewer would have, reading the text, such as what is unclear or vague. Come up with one question per sentence/topic.
 Think step by step to come up with the correct solution. Provide detailed reasoning for each step, followed by the correct solution.
 
 <br>
 
-*Step 3*
+**Step 3**
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
 
