@@ -121,10 +121,10 @@ draft: false  # Ensure it's published
 
 **Improve Text:**
 
-* Create, at first, five quantitative measures, and rate your text on them
-* Then, revise the text
-* Measure the new text again, and show sentence by sentence how the measures improve
-* Provide reasoning first
+1. Create, at first, five quantitative measures, and rate your text on them
+2. Then, revise the text
+3. Measure the new text again, and show sentence by sentence how the measures improve
+4. Provide reasoning first
 
 <br>
 
@@ -216,18 +216,15 @@ After answering a question, ask permission to proceed to the next, ensuring a me
 
 ## Complex Few-Shot Learning for Data Tagging
 
+```
 Classify the text after *** using the classification definition after +++ and examples for classification after ###.
 
-```
+
 +++
   { "factual": "Events, personal facts, actions, or known information without personal characteristics or opinions.",
-
     "cognitive": "Opinions, attitudes, thoughts, personal characteristics, agreement/disagreement statements, and self-disclosure questions.",
-  
     "emotional": "Expressions of emotions towards events, people, or experiences, including self-esteem and emotional words like 'excited', 'hate', 'love', etc.",
-    
     "irrelevant": "Contains general or unrelated statements not related to factual, cognitive or emotional." }
-```
 
 **Examples:**
 
@@ -247,6 +244,8 @@ Classify the text after *** using the classification definition after +++ and ex
 
 I really like prompt engineering
 
+```
+
 <br>
 
 ---
@@ -264,17 +263,20 @@ Provide Reasoning first and then the answer.
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
 
 **Step 1:**
+
 Go through the introduction, and in the first step, find mistakes, logical breaks, and weak argumentations.
 
 <br>
 
 **Step 2:**
+
 In the second step, go sentence by sentence and write out the questions a reviewer would have, reading the text, such as what is unclear or vague. Come up with one question per sentence/topic.
 Think step by step to come up with the correct solution. Provide detailed reasoning for each step, followed by the correct solution.
 
 <br>
 
 **Step 3:**
+
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
 
