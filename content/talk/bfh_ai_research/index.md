@@ -92,7 +92,6 @@ draft: false  # Ensure it's published
 
 
 <br>
-<br>
 
 ## Steps to Create Effective ChatGPT Prompt
 
@@ -108,7 +107,9 @@ draft: false  # Ensure it's published
 
 > “Imagine you are writing a scientific proposal for receiving funding for educational technology in the canton of Bern in Switzerland. Act as a research scientist at the intersection of HCI and educational technology. Please imagine the following proposal summary: '…' Please create a specific timeline with milestones for the project and arrange them for the quarters in 2024. Study 1 will happen in Q2 and Study 2 in Q4.”
 
+<br>
 ---
+<br>
 
 ## Example Phrases for Prompts:
 
@@ -123,8 +124,9 @@ Then, revise the text
 Measure the new text again, and show sentence by sentence how the measures improve
 Provide reasoning first
 
-
-
+<br>
+---
+<br>
 
 ## Complex Prompt to Understand a New Topic
 
@@ -156,7 +158,9 @@ The template should cover why the question is important, what information or act
 ### Iterative Reflection and Summary:
 **Step 8**: Conduct a reflective review of all responses after completing the answers. Summarize critical insights, contradictions, and new questions that have emerged. This step fosters a deeper understanding and may highlight further areas of inquiry.
 
+<br>
 ---
+<br>
 
 ## Prompt Techniques Using Formula
 
@@ -170,7 +174,9 @@ The template should cover why the question is important, what information or act
 | • Editor from [target] journal  | • Condense lists               | • Table/Chart                |
 | • PhD student in [specific field] | • Draft references           | • (MLA, APA, Chicago) citations |
 
+<br>
 ---
+<br>
 
 ## Complex Few-Shot Learning for Data Tagging
 
@@ -182,22 +188,24 @@ The template should cover why the question is important, what information or act
     "emotional": "Expressions of emotions towards events, people, or experiences, including self-esteem and emotional words like 'excited', 'hate', 'love', etc.",
     "irrelevant": "Contains general or unrelated statements not related to factual, cognitive or emotional." }
 
-- ### Examples: ###
+- *Examples:*
 
-- ### 1. Example ###
+- *1. Example*
   {"text": "Partially in St. Gallen and in Zurich because I am from Zurich.", "answer": "factual"}
 
-- ### 2. Example ###
+- *2. Example*
   {"text": "I was in the sports gymnasium and therefore I had to manage school and sport at the same time", "answer": "factual"}
 
-- ### 3. Example ###
+- *3. Example*
   {"text": "I am just happy that they aren't in my courses.", "answer": "emotional"}
 
-*** To predict ***
+*To predict*
 
 - I really like prompt engineering
 
+<br>
 ---
+<br>
 
 # Chain-of-thoughts (CoT)
 
@@ -218,7 +226,7 @@ In the second step, go sentence by sentence and write out the questions a review
 
 Think step by step to come up with the correct solution. Provide detailed reasoning for each step, followed by the correct solution.
 
----
+*Step 3*
 
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 
