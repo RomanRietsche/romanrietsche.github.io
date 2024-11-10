@@ -64,6 +64,12 @@ draft: false  # Ensure it's published
 
 ---
 
+# How-to 
+
+Below you will find the prompts used in this workshop.
+
+---
+
 # Table of Contents
 1. [Prompts](#prompts)
 2. [Steps to Create Effective ChatGPT Prompt](#steps-to-create-effective-chatgpt-prompt)
