@@ -257,6 +257,11 @@ I really like prompt engineering
 Let’s work this out in a step by step way to be sure we have the right answer. 
 Provide Reasoning first and then the answer.
 
+<br>
+
+---
+
+<br>
 
 ## Prompt: Writing & Revision
 
