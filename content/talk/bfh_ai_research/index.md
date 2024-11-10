@@ -267,20 +267,20 @@ Provide Reasoning first and then the answer.
 
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
 
-**Step 1:**
+**Copy Step 1:**
 
 Go through the introduction, and in the first step, find mistakes, logical breaks, and weak argumentations.
 
 <br>
 
-**Step 2:**
+**Copy Step 2:**
 
 In the second step, go sentence by sentence and write out the questions a reviewer would have, reading the text, such as what is unclear or vague. Come up with one question per sentence/topic.
 Think step by step to come up with the correct solution. Provide detailed reasoning for each step, followed by the correct solution.
 
 <br>
 
-**Step 3:**
+**Copy Step 3:**
 
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
