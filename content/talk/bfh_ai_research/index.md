@@ -105,7 +105,9 @@ draft: false  # Ensure it's published
 > “Imagine you are writing a scientific proposal for receiving funding for educational technology in the canton of Bern in Switzerland. Act as a research scientist at the intersection of HCI and educational technology. Please imagine the following proposal summary: '…' Please create a specific timeline with milestones for the project and arrange them for the quarters in 2024. Study 1 will happen in Q2 and Study 2 in Q4.”
 
 <br>
+
 ---
+
 <br>
 
 ## Example Phrases for Prompts:
@@ -122,7 +124,9 @@ Measure the new text again, and show sentence by sentence how the measures impro
 Provide reasoning first
 
 <br>
+
 ---
+
 <br>
 
 ## Complex Prompt to Understand a New Topic
@@ -156,7 +160,9 @@ The template should cover why the question is important, what information or act
 **Step 8**: Conduct a reflective review of all responses after completing the answers. Summarize critical insights, contradictions, and new questions that have emerged. This step fosters a deeper understanding and may highlight further areas of inquiry.
 
 <br>
+
 ---
+
 <br>
 
 ## Prompt Techniques Using Formula
@@ -172,7 +178,9 @@ The template should cover why the question is important, what information or act
 | • PhD student in [specific field] | • Draft references           | • (MLA, APA, Chicago) citations |
 
 <br>
+
 ---
+
 <br>
 
 ## Complex Few-Shot Learning for Data Tagging
@@ -201,7 +209,9 @@ The template should cover why the question is important, what information or act
 - I really like prompt engineering
 
 <br>
+
 ---
+
 <br>
 
 # Chain-of-thoughts (CoT)
@@ -215,6 +225,7 @@ You are an editor for the information systems research journal, A+ journal in th
 
 *Step 1*
 Go through the introduction, and in the first step, find mistakes, logical breaks, and weak argumentations.
+
 <br>
 
 *Step 2*
@@ -222,6 +233,7 @@ In the second step, go sentence by sentence and write out the questions a review
 Think step by step to come up with the correct solution. Provide detailed reasoning for each step, followed by the correct solution.
 
 <br>
+
 *Step 3*
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
