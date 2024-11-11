@@ -269,7 +269,7 @@ Provide Reasoning first and then the answer.
 
 <br>
 
-## Prompt: Writing & Revision
+## Question-based Prompt: Writing & Revision 
 
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
 
@@ -291,4 +291,50 @@ Think step by step to come up with the correct solution. Provide detailed reason
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
 
+<br>
+
 ---
+
+<br>
+
+# Metric-based Prompt: Writing & Revision
+
+```
+You are a reviewer for the "Information Systems Research" Journal, an A+ journal in Information Systems. 
+You received a paper with the introduction shown between ###.
+
+*Task*
+Your task is to improve the quality of the introduction. 
+The introduction should convince the reviewers to accept the paper.
+Go through the introduction paragraph by paragraph and apply the following steps.
+
+1. Evaluate the paragraph of this research paper according to five core metrics. For each metric, provide a score from 1-5 and a brief explanation
+	1. **Relevance and Novelty**: Does the introduction engage the reader by addressing a pressing or innovative issue in the field?
+	2. **Theoretical/Practical Contribution**: Does it establish why the research is essential for advancing knowledge or practice within information systems?
+	3. **Positioning and Literature Engagement**: Does it critically situate the study within recent, high-impact research and show a clear and essential research gap?
+	4. **Ambition of Objectives**: Are the objectives clear but also ambitious and original, fitting the scope of a leading journal?
+	5. **Impactful Research Questions/Hypotheses**: Are the questions or hypotheses poised to make a meaningful impact, possibly opening new research paths or addressing a significant issue?
+2. Improve the paragraph so that the metrics are improved. Make the changes bold.
+3. Evaluate the paragraph of this research paper according to the five core metrics again. For each metric, provide a score from 1-5 and a brief explanation
+4. Compare the two metrics; if the metrics are below 5, improve the paragraph again.
+
+Think step by step, sentence by sentence, to provide the best possible solution. Provide in-depth reasoning first.
+
+Ask for my permission to go to the next paragraph.
+
+###
+
+In 2021, blockchain added an estimated US\$ 119 million to the education market and is expected to increase with a compound annual growth rate of almost 44% to over US\$ 3 billion by 2030 (Business Research Insight, 2024). This development goes hand in hand with the increasing demand for digitizing and smartifying learning and working environments for flexibility and efficiency purposes. Regarding the development of digitization in the educational sector, according to HolonIQ (2023), the quaternary sector, including adult and on-the-job education, with 76%, is more than twice as oriented towards entering new markets and integrating new technologies than the tertiary sector, including higher education institutions, such as universities, with only 35%.
+
+However, investigation concerning the use of blockchain in the former sector and emphasizing the benefits for teachers and institutions remains open. According to the Gartner 2019 CIO Survey (2019), implementing blockchain technology in the educational sector could promote the simplification of record keeping verifying various digitized types of certificates and their accreditation through blockchain technology. In addition to increasing efficiency, blockchain adoption helps secure intellectual property and prevent document fraud. Furthermore, it can also lead to entirely new business models, such as educational institutions "rely(ing) on blockchain and smart contracts as the basis of the relationship between learners and educators," as Moore states (2019).
+
+Our systematic literature review revealed several proposals for implementing blockchain in higher education to increase efficiency and security, benefiting teachers and students.
+
+Firstly, in the context of research and course development, Yano et al. (2022) propose building a blockchain network between researchers to openly publish and mutually peer-review their findings in an automated manner. Van Rossum (2017) further mentions that the latter could also facilitate and shorten the publishing process of research papers by involving publishers in the network or replacing them by just implementing smart contracts to set the standards for publishing.
+
+###
+
+```
+
+
+Did all metrics improve to 5? critically reflect
