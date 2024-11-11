@@ -120,6 +120,7 @@ Below you will find the prompts used in this workshop.
 
 - Critical self-reflect …
 - Improve it by 100% …
+- Shorten the text by 20% … 
 - You get 100 dollar tips when you improve it…
 - Convince the reader …
 
@@ -271,6 +272,8 @@ Provide Reasoning first and then the answer.
 
 ## Question-based Prompt: Writing & Revision 
 
+
+```
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
 
 **Copy Step 1:**
@@ -290,6 +293,9 @@ Think step by step to come up with the correct solution. Provide detailed reason
 
 Now, let's go through the 30 questions step by step and provide 1-2 specific sentences answering the question. Provide first the reasoning of why your solution would answer the question and how it would answer it. Afterward, provide your solution and the sentence which should be replaced.
 Let's do this question per question. If you are done with one question, ask my permission to proceed to the next question until we reach the 30th question.
+
+
+```
 
 <br>
 
