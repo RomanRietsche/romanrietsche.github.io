@@ -78,8 +78,8 @@ Below you will find the prompts used in this workshop.
 6. [Prompt Techniques – Using Formula](#prompt-techniques-using-formula)
 7. [Complex Few-Shot Learning for Data Tagging](#complex-few-shot-learning-for-data-tagging)
 8. [Chain-of-thoughts (CoT)](#chain-of-thoughts-cot)
-9. [Question based Prompt: Writing & Revision](#question-based-prompt-writing-revision)
-10. [Metric based Prompt Writing Revision](#metric-based-prompt-writing-revision)
+9. [Question based Prompt: Writing Revision](#question-based-prompt-writing-revision)
+10. [Metric based Prompt: Writing Revision](#metric-based-prompt-writing-revision)
 10. [Test Data](#test-data)
 
 # Prompts
@@ -273,8 +273,7 @@ Provide Reasoning first and then the answer.
 
 <br>
 
-## Question based Prompt Writing  Revision 
-
+## Question based Prompt Writing Revision 
 
 ```
 You are an editor for the information systems research journal, A+ journal in the information systems area. You will receive a paper with the introduction after ###.
