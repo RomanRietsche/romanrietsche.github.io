@@ -78,6 +78,8 @@ Below you will find the prompts used in this workshop.
 6. [Prompt Techniques – Using Formula](#prompt-techniques-using-formula)
 7. [Complex Few-Shot Learning for Data Tagging](#complex-few-shot-learning-for-data-tagging)
 8. [Chain-of-thoughts (CoT)](#chain-of-thoughts-cot)
+9. [Question based Prompt: Writing & Revision](#question-based-prompt:-writing-&-revision)
+10. [Test Data](#test-data)
 
 # Prompts
 
@@ -270,7 +272,7 @@ Provide Reasoning first and then the answer.
 
 <br>
 
-## Question-based Prompt: Writing & Revision 
+## Question based Prompt: Writing & Revision 
 
 
 ```
@@ -303,7 +305,7 @@ Let's do this question per question. If you are done with one question, ask my p
 
 <br>
 
-# Metric-based Prompt: Writing & Revision
+# Metric based Prompt: Writing & Revision
 
 ```
 You are a reviewer for the "Information Systems Research" Journal, an A+ journal in Information Systems. 
@@ -342,5 +344,33 @@ Firstly, in the context of research and course development, Yano et al. (2022) p
 
 ```
 
-
 Did all metrics improve to 5? critically reflect
+
+# Test Data
+
+```
+Title: “More Than Just Pizza, It's An Experience!”
+Rating: ★★★★★ 
+Last night, we ventured out as a family to try this much-talked-about pizza place. The decor was an eclectic mix of modern chic and classic Italian. But the real star? The food. We opted for the chef's special tasting menu, and every dish was a revelation. The Pepperoni had the right amount of spice and the white pizza with truffle oil was sublime. The kids loved the interactive DIY pizza station. The staff was friendly, making sure we felt welcomed and attended to at all times. They truly understand that dining out is more than just about food; it's about creating lasting memories.
+
+Title: “The Gold Standard of Home Delivery”
+Rating: ★★★★★ In the age where takeout and deliveries can be hit or miss, this place sets the gold standard. Not only did the pizza arrive piping hot and well within the promised time, but the packaging was also eco-friendly. The taste? Absolutely divine! I ordered the Veggie Delight, and each vegetable tasted like it was handpicked with love. The crust was perfectly crispy, and the cheese ratio was spot on. The app was user-friendly with real-time tracking, and the delivery person was courteous and professional. Truly a seamless experience from start to finish.
+
+Title: "Unpleasant Discovery Ruined My Meal" 
+Rating: ★☆☆☆☆ 
+I was halfway through enjoying my Margherita when I noticed something off. Upon closer inspection, I was horrified to find a hair embedded into the cheese. This just shows their utter disregard for hygiene standards. I had heard mixed reviews before but decided to give them a try. Never again!
+
+Title: "Billing Nightmares with This Place!" 
+Rating: ★☆☆☆☆ 
+I always check my bank statements and, to my dismay, found that I was double charged for a single pizza order last week. When I reached out to customer service, they brushed off my concerns, leaving me feeling duped. It’s a real shame; their pizza is decent, but I can’t support a place with such shady billing practices.
+
+Title: "Bait and Switch Promotions? No Thanks" 
+Rating: ★★☆☆☆ Came across their 'buy one get one free' deal and thought it was a great opportunity to try their range. Imagine my surprise when I was informed at checkout that the deal doesn't apply to the pizzas I chose. It's disheartening when businesses use such misleading tactics to lure customers in.
+
+Title: "App Experience is Abysmal" 
+Rating: ★☆☆☆☆ Thought I'd save some time and order through their app. Big mistake! The app kept freezing and, on the third try, processed my payment without confirming my order. I spent a good hour on the phone trying to rectify this. It's 2023; app glitches like these are just unacceptable.
+
+Title: "Dine-in? More Like Dive-in!" 
+Rating: ★★☆☆☆ Wanted a change of scene, so decided to dine in. The tables were sticky, the service slow, and there was this loud group that the staff did nothing about. The whole atmosphere was far from the cozy pizza place I had imagined.
+
+```

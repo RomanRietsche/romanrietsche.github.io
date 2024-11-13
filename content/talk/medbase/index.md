@@ -241,6 +241,15 @@ Provide Reasoning first and then the answer.
 
 ## Medical Research
 
+*Basic prompt chatGPT:* 
+
+```“Summarize the key findings of the latest research on immunotherapy for melanoma. The maximum is 300 words.”```
+
+Advanced prompt chatGPT:
+
+
+
+
 <br>
 
 ---
