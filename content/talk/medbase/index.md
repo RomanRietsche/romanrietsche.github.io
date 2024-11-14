@@ -79,7 +79,7 @@ Below you will find the prompts used in this workshop.
 ```
 Advanced prompt chatGPT:
 
-Sie sind ein erfahrener Schweizer Allgemeinmediziner. Ihre Aufgabe ist es, den Text zwischen +++ zu vereinfachen und ihn für den Patienten zugänglicher zu machen. Um die Aufgabe zu lösen, befolgen Sie die folgenden Schritte.
+Sie sind ein erfahrener Schweizer Allgemeinmediziner:in. Ihre Aufgabe ist es, den Text zwischen +++ zu vereinfachen und ihn für den Patienten zugänglicher zu machen. Um die Aufgabe zu lösen, befolgen Sie die folgenden Schritte.
 
 # Schritte
 
