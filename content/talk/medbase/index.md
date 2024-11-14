@@ -71,6 +71,56 @@ Below you will find the prompts used in this workshop.
 ---
 
 
+
+# Use Case: Documentation and Administrative
+
+## Patient Care
+
+```
+Advanced prompt chatGPT:
+
+Sie sind ein erfahrener Schweizer Allgemeinmediziner. Ihre Aufgabe ist es, den Text zwischen +++ zu vereinfachen und ihn für den Patienten zugänglicher zu machen. Um die Aufgabe zu lösen, befolgen Sie die folgenden Schritte.
+
+# Schritte
+
+  1. Überprüfen Sie die Patienteninformationen: Lesen Sie die Akte und die klinischen Notizen sorgfältig durch und konzentrieren Sie sich dabei auf wichtige Details wie Diagnosen, durchgeführte Behandlungen, Verschreibungen und Empfehlungen, die während des Besuchs gegeben wurden.
+  2. Sprache an das Verständnis des Patienten anpassen: Verwenden Sie eine einfache Sprache, die für einen Patienten mit mittlerem Leseniveau und eingeschränkten Deutschkenntnissen (wie B1) geeignet ist. Alle medizinischen Begriffe sollten klar und deutlich erklärt werden, damit der Patient seine Gesundheits- und Pflegeanweisungen verstehen kann. Verwenden Sie gegebenenfalls Analogien, um medizinische Begriffe zu erklären.
+  3. Geben Sie klare Anweisungen für die häusliche Versorgung: Fügen Sie gegebenenfalls prägnante und praktische Schritte für die häusliche Versorgung hinzu. Geben Sie alle erforderlichen Folgemassnahmen an und beschreiben Sie Symptome oder Warnzeichen, auf die zu achten ist. Geben Sie klare Hinweise, wann und wie Sie weitere medizinische Hilfe in Anspruch nehmen sollten.
+
+# Anweisungen zur Datenausgabe
+  1. Geben Sie die Informationen kurz und bündig wieder, wobei Sie auf medizinische Genauigkeit zu achten ist.
+  2. Ihr Output sollte die folgenden Themen enthalten: Diagnose, Nebendiagnose, Therapie, Bemerkungen, Verfahren, Medikation bei Entlassung, Ergänzung, Befunde, Untersuchung/Leistung, PATHOLOGIE, Biopsie.
+  3. Fügen Sie einen positiven, unterstützenden Schluss hinzu, der die Eigenverantwortung und das Verständnis des Patienten betont.
+
+Denken Sie Schritt für Schritt, um die richtige Antwort zu finden. Führen Sie zuerst eine ausführliche Begründung an.
+
+```
+
+# Arzt Bericht
+
+Befund:
+
+Eine CT-Abdomen Voraufnahme auswärts vom 14.08.2011 sowie ein CT-Thorax mit Oberbauch-Voraufnahme vom 03.09.2011 liegen zum Vergleich vor. Regelrechte Kontrastierung des Leberparenchyms mit Abgrenzung einer angiographisch unscharf begrenzten fokalen Minderverfettung in den Lebersegmenten VII und VIII. Kleinste dysontogenetische Leberzysten im Segment VIII, max. Durchmesser 3mm. Insgesamt deutliche Lebersteatose. Status nach Splenektomie mit regelrechter Darstellung der Milzloge. Pankreas homogen kontrastiert mit Nachweis einer umschriebenen kleinzystischen Veränderung im Corpusbereich, Maximaldurchmesser 12 mm, unverändert im Vergleich zu den Voruntersuchungen vom August und September 2011, DD kleine Pseudozysten. 
+
+Bezüglich des Lymphknotenkonglomerates an der Leberpforte zeigt sich eine leichtgradige Grösssenzunahme bei einer Messung in Höhe der Vena portae mit aktuellem axialem Durchmesser von 4,2 X3,9 cm, am 03.09.2011 3,8 x3,4 cm und am 14.08.2011 4,0 x3,2 cm. Ein weiterer vergrösserter Lymphknoten findet sich präcaval mit einer aktuellen Ausdehnung von 2,6x2,2 cm, vormals am 03.09.2011 2,8 x1,8 cm bzw. am 14.08.2011 2,7 x2,1 cm. Kein Nachweis weiterer neu aufgetretener vergrösserter Lymphknoten. Bezüglich des Gastrointestinaltraktes kein Hinweis auf eine Passagestörung, weder im oberen noch im unteren Gastrointestinaltrakt. Mehrere leicht unregelmässige Divertikel am Übergang vom Colon descendens zum Sigma mit minimaler Wandakzentuierung. Keine erkennbare Perforation oder Abszessformation perikolisch. Multisegmentale degenerative Veränderungen der LWS mit Osteochondrose in Höhe des Segmentes LWK 4/5 bei breitbasiger Bandscheibenprotrusion. Keine osteolytischen oder osteoplastischen ossären Läsionen. 
+
+Beurteilung:
+
+- Gegenüber der Voruntersuchung vom 03.09.2011 Zeichen einer diskreten Grössenzunahme der Lymphknotenmanifestation an der Leberpforte bzw. präcaval.
+- Status nach Splenektomie mit regelrechter Darstellung der Milzloge.
+- Zeichen einer deutlichen Lebersteatose mit fokaler Minderverfettung im rechten Leberlappen.
+- Diskrete postentzündliche Veränderung bei Status nach Divertikulitis am Übergang des Colon descendens zum Sigma. Aktuell keine Abszessformation oder Obliteration des Fettgewebes.
+- Allenfalls minime Flüssigkeit im Douglasraum.
+- Keine neu aufgetretenen vergrösserten Lymphknoten retroperitoneal.
+- Kein Hinweis auf einen ossären Lymphombefall.
+- Regelrechter Befund der mitabgebildeten basalen Lungenabschnitte. Einzelne grenzwertig grosse hiläre Lymphknoten beidseits.
+
+<br>
+<br>
+
+
+
+
 # Table of Contents
 1. [Prompts](#prompts)
 2. [Steps to Create Effective ChatGPT Prompt](#steps-to-create-effective-chatgpt-prompt)
@@ -237,26 +287,6 @@ Provide Reasoning first and then the answer.
 
 <br>
 
-# Use Case 1: Research Article Summarization
-
-## Medical Research
-
-*Basic prompt chatGPT:* 
-
-```“Summarize the key findings of the latest research on immunotherapy for melanoma. The maximum is 300 words.”```
-
-Advanced prompt chatGPT:
 
 
-
-
-<br>
-
----
-
-<br>
-
-# Use Case 2: Documentation and Administrative
-
-## Patient Care
 
