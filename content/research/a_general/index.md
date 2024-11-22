@@ -41,3 +41,15 @@ Rai, A. (2017). Editor's comments: avoiding type III errors: formulating IS rese
 ### Explain or Predict ? ### 
 
 Shmueli, G. (2010). To Explain or to Predict? Statistical Science, 25(3), 289–310. https://doi.org/10.1214/10-STS330
+
+### Paper: Writing
+
+*Abstract*
+https://www.abehandler.com/blog/2024/MISQ-abstracts/
+
+*Design Oriented Papers in Computer Science*
+https://perceiving-systems.blog/post/writing-a-good-scientific-paper
+
+*Figures for CHI Papers*
+https://docs.google.com/presentation/d/1ibu-lsRcEp-2fDpVvTfsdvzYo2ipjOOKkE46mk8_2NU/mobilepresent#slide=id.p5
+
