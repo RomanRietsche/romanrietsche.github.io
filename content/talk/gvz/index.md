@@ -1,8 +1,8 @@
 ---
-title: 'AI/KI, ChatGPT und Prompts!?! Einführung in die Welt von KI und praktische Hands-on Tipps und Tricks'
+title: 'KI, ChatGPT und Prompts!?! Einführung in die Welt von KI und praktische Hands-on Tipps und Tricks'
 type: event
-location: 'MedBase'
-summary: 'Prompt Engineering für Ärzte'
+location: 'GVZ'
+summary: 'Grundlagen der Prompt Techniken'
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -14,7 +14,7 @@ summary: 'Prompt Engineering für Ärzte'
 #publishDate: '2017-01-01T00:00:00Z'
 
 #authors: []
-tags: [prompt_engineering_doctors]
+tags: [prompt_engineering_gvz]
 draft: false  # Ensure it's published
 
 # Is this a featured talk? (true/false)
