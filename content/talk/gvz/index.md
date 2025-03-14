@@ -77,7 +77,6 @@ Below you will find the prompts used in this workshop.
 <br>
 
 
-
 # Prompts
 
 ```
