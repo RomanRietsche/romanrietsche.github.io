@@ -119,6 +119,12 @@ sections:
           tag: LOOM
         - name: SCESC
           tag: SCESC
+        - name: DigitBot
+          tag: DigitBot
+        - name: Digital Coach
+          tag: DigitalCoach
+        - name: Reflect
+          tag: Reflect
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

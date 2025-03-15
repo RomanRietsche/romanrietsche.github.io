@@ -3,7 +3,7 @@ title: "Reflective Writing for Personal Development: Leveraging AI for Scalable 
 
 summary: Leveraging AI, our project transforms reflective writing in education by providing personalized, scalable feedback and insights, empowering learners to develop essential future skills for sustainable development.
 tags:
-  - reflect
+  - Reflect
 date: '2024-08-01'
 
 # Optional external URL for project (replaces project detail page).
