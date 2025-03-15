@@ -77,13 +77,13 @@ Below you will find the prompts used in this workshop.
 <br>
 
 
-# Prompts
-
-```
 
 # Beispiel System Prompt
 
-Entwickeln Sie eine Reihe von Multiple-Choice-Fragen, um das Verständnis von „Prompt Engineering“ unter den Teilnehmern des GKV-Workshops zu bewerten.
+```
+
+Entwickeln Sie eine Reihe von Multiple-Choice-Fragen, um das Verständnis von „Prompt Engineering“ unter den Teilnehmern des GKV-Workshops zu bewerten. 
+Denken Sie Schritt für Schritt, um die bestmöglichen Multiple-Choice-Fragen zu erstellen.
 
 # Aufgabe
 Stellen Sie sicher, dass die Fragen klar sind und sich auf die Hauptthemen der Präsentation über „Prompt Engineering“ konzentrieren.
@@ -92,47 +92,48 @@ Achten Sie auf eine Mischung aus verschiedenen Schwierigkeitsgraden der Fragen, 
 
 # Schritte
 
-Identifizieren Sie die Hauptthemen und Ziele der Präsentation über „Promptes Engineering“.
-Entwickeln Sie Fragen, die diese Schlüsselthemen ansprechen, und stellen Sie sicher, dass sie das Verständnis, die Anwendung und die Analyse bewerten, wo dies möglich ist.
-Entwickeln Sie eine Reihe von Multiple-Choice-Optionen für jede Frage, einschliesslich einer richtigen Antwort und drei oder vier Ablenkungsmöglichkeiten.
-Überprüfen Sie die Fragen auf Klarheit und Relevanz für das Präsentationsmaterial.
+1. Identifizieren Sie die Hauptthemen und Ziele der Präsentation über „Promptes Engineering“.
+2. Entwickeln Sie Fragen, die diese Schlüsselthemen ansprechen, und stellen Sie sicher, dass sie das Verständnis, die Anwendung und die Analyse bewerten, wo dies möglich ist.
+3. Entwickeln Sie eine Reihe von Multiple-Choice-Optionen für jede Frage, einschliesslich einer richtigen Antwort und drei Ablenkungsmöglichkeiten.
+4. Überprüfen Sie die Fragen auf Klarheit und Relevanz für das Präsentationsmaterial.
 
 # Ausgabeformat
 
 Auf jede Frage sollten vier Optionen folgen, wobei:
-Eine Option ist als die richtige Antwort gekennzeichnet.
-Jede Option ist mit einem Buchstaben gekennzeichnet (A, B, C, D, E).
+- Eine Option ist als die richtige Antwort gekennzeichnet.
+- Jede Option ist mit einem Buchstaben gekennzeichnet (a, b, c, d).
 
 Beispielformat:
+
 Frage: [Text der Frage]
-A) Option 1
-B) Option 2
-C) Option 3 (Richtige Antwort)
-D) Option 4
+a) Option 1
+b) Option 2
+c) Option 3 (Richtige Antwort)
+d) Option 4
 
 # Beispiele
 
 **Frage**: Was ist „Prompt Engineering“?
-Der Prozess der Erstellung und Verfeinerung von Prompts, um KI-Modelle effizient zu instruieren 
-Der Bau physischer Komponenten für Computersysteme
-Die Entwicklung von Software für die Datenanalyse
-Entwurf von Prompts für die Mensch-Computer-Interaktion
-(Richtige Antwort: A)
+
+a) Der Prozess der Erstellung und Verfeinerung von Prompts, um KI-Modelle effizient zu instruieren (Richtige Antwort)
+b) Der Bau physischer Komponenten für Computersysteme
+c) Die Entwicklung von Software für die Datenanalyse
+d) Entwurf von Prompts für die Mensch-Computer-Interaktion
 
 ...
 
 # Anmerkungen
 
-Fügen Sie Fragen ein, die sich mit Definitionen, praktischen Anwendungen und potenziellen Fallstricken beim „Prompt Engineering“ befassen.
-Ziehen Sie szenariobasierte Fragen in Betracht, um das angewandte Verständnis zu testen.
-Vermeiden Sie übermäßigen Fachjargon, es sei denn, er wurde ausdrücklich in der Präsentation behandelt.
+- Fügen Sie Fragen ein, die sich mit Definitionen, praktischen Anwendungen und potenziellen Fallstricken beim „Prompt Engineering“ befassen.
+- Ziehen Sie szenariobasierte Fragen in Betracht, um das angewandte Verständnis zu testen.
+- Vermeiden Sie übermässigen Fachjargon, es sei denn, er wurde ausdrücklich in der Präsentation behandelt.
 
 ```
+<br>
 
+---
 
-
-
-## How to Craft Effective Prompts: Key Principles
+<br>
 
 # Bestandteile eines effektiven Prompts
 
@@ -147,18 +148,23 @@ Vermeiden Sie übermäßigen Fachjargon, es sei denn, er wurde ausdrücklich in 
 
 <br>
 
-## Steps to Create Effective ChatGPT Prompt
+# Schritte zur Erstellung eines effektiven Prompts
 
-1. **Identify the purpose and focus of the conversation.**
-2. **Use specific and relevant language** (e.g., "Act as...").
-3. **Avoid open or overly general prompts.**
-4. **Review and revise your prompt.**
+1. Bestimmen Sie den Zweck und den Schwerpunkt des Gesprächs.
+2. Verwenden Sie eine spezifische und relevante Sprache ("Handeln Sie als...")
+3. Vermeiden Sie offene oder übermässig allgemeine Prompts.
+4. Überprüfen und überarbeiten Sie Ihren Prompt.
 
-### Example Proposal Writing
 
-> Imagine you are writing a scientific proposal to receive funding for a healthcare innovation project in the canton of Zürich, Switzerland. Act as a clinical researcher focused on improving medical practices and patient outcomes through technology or educational resources for doctors. Create a detailed project proposal summary for introducing and evaluating an advanced medical tool or healthcare training program that enhances diagnostic accuracy or patient management.
+## Beispiel E-mail:
 
-> Next, develop a timeline for the project with specific milestones organized by quarter for 2024. Please schedule Study 1 in Q2, which will be a preliminary assessment or pilot study of the new tool or program, and Study 2 in Q4, focusing on a larger-scale evaluation of its impact on patient outcomes and doctor proficiency.
+Stellen Sie sich vor, Sie schreiben eine geschäftliche E-Mail, um Finanzierung für ein Innovationsprojekt im Bereich der Gebäudeversicherung im Kanton Zürich, Schweiz, zu beantragen.
+Handeln Sie als Unternehmen mit dem Fokus auf die Verbesserung von Risikobewertungen und Schadensprävention durch den Einsatz von Technologie oder Schulungsressourcen für Versicherungsfachleute.
+
+Verfassen Sie eine detaillierte E-Mail-Zusammenfassung des Projektvorschlags, in der ein fortschrittliches Analyseinstrument oder ein Schulungsprogramm vorgestellt und dessen Einführung sowie Evaluierung beschrieben wird. 
+
+Ziel ist es, die Genauigkeit bei der Risikoeinschätzung oder das Schadenmanagement nachhaltig zu optimieren.
+
 <br>
 
 ---
@@ -167,18 +173,20 @@ Vermeiden Sie übermäßigen Fachjargon, es sei denn, er wurde ausdrücklich in 
 
 
 
-# Anleitung zur Kritischen Selbstreflexion und Textverbesserung
+# Anleitung zur kritischen Selbstreflexion und Textverbesserung
 
 ## Zielsetzung
-Verbessern Sie den gegebenen Text um 100%. Wenn Sie es schaffen, den Text überzeugend und qualitativ hochwertig zu optimieren, erwartet Sie ein imaginäres Trinkgeld von 100 Dollar. Der Leser soll von der neuen Version des Textes überzeugt werden.
+- Verbessern Sie den gegebenen Text um 100%. 
+- Wenn Sie es schaffen, den Text überzeugend und qualitativ hochwertig zu optimieren, erwartet Sie ein imaginäres Trinkgeld von 100 Dollar. 
+- Der Leser soll von der neuen Version des Textes überzeugt werden.
 
 ---
 
-## Beispiel: Verbesserung des Textes "XYZ"
+# Beispiel: Verbesserung des Textes "XYZ"
 
 ```
 
-### **1. Festlegung von Fünf Quantitativen Messwerten**
+# **1. Festlegung von Fünf Quantitativen Messwerten**
 Definieren Sie zunächst fünf klare, quantitative Kriterien, um die Qualität des Textes objektiv zu bewerten. Diese könnten sein:
 
 - **Klarheit** (Wie verständlich ist der Text? Skala von 1 bis 10)
@@ -189,7 +197,7 @@ Definieren Sie zunächst fünf klare, quantitative Kriterien, um die Qualität d
 
 ---
 
-### **2. Bewertung des Ursprünglichen Textes**
+# **2. Bewertung des Ursprünglichen Textes**
 Bewerten Sie den Ausgangstext nach den fünf festgelegten Kriterien.
 
 | Messwert          | Bewertung (1-10) | Begründung                                      |
@@ -202,7 +210,7 @@ Bewerten Sie den Ausgangstext nach den fünf festgelegten Kriterien.
 
 ---
 
-### **3. Textverbesserung**
+# **3. Textverbesserung**
 Überarbeiten Sie den Text gezielt, um alle fünf Messwerte zu verbessern. Achten Sie auf:
 
 - Präzisere Formulierungen für mehr Klarheit.
@@ -213,7 +221,7 @@ Bewerten Sie den Ausgangstext nach den fünf festgelegten Kriterien.
 
 ---
 
-### **4. Bewertung des Überarbeiteten Textes**
+# **4. Bewertung des Überarbeiteten Textes**
 Messen Sie erneut die Qualität des verbesserten Textes.
 
 | Messwert          | Bewertung (1-10) | Begründung                                      |
@@ -226,7 +234,7 @@ Messen Sie erneut die Qualität des verbesserten Textes.
 
 ---
 
-### **5. Satz-für-Satz-Analyse**
+# **5. Satz-für-Satz-Analyse**
 Vergleichen Sie Satz für Satz den alten mit dem neuen Text und zeigen Sie konkret, wie sich die Messwerte verbessert haben.
 
 **Beispiel:**
@@ -237,7 +245,7 @@ Vergleichen Sie Satz für Satz den alten mit dem neuen Text und zeigen Sie konkr
 
 ---
 
-## Fazit
+# Fazit
 Durch die strukturierte Vorgehensweise und die gezielte Analyse nach definierten Messwerten wird der Text nicht nur messbar, sondern auch nachvollziehbar verbessert. Diese Methode gewährleistet eine nachhaltige Optimierung der Textqualität.
 
 ```
@@ -253,7 +261,6 @@ Durch die strukturierte Vorgehensweise und die gezielte Analyse nach definierten
 -> Kopieren Sie die einzelnen Schritte nacheinander in chatGPT, Claude, Gemini, etc.
 
 ```
-
 
 # Aufgabe: Ich möchte «Prompt-Technik» verstehen
 
@@ -316,13 +323,13 @@ Bitten Sie nach der Beantwortung einer Frage um Erlaubnis, mit der nächsten for
 
 > **Als [ROLE] führe [AUFGABE] in [FORMAT] aus: füge eindeutige Daten ein**
 
-| **Rolle**                                      | **Aufgabe / Ziel**                               | **Format**                  |
-|------------------------------------------------|--------------------------------------------------|-----------------------------|
-| - Wissenschaftlicher Fachautor                 | - Frage formulieren                              | - PDF                       |
-| - Ronald C. Kessler                            | - Verfassen einer Zusammenfassung                | - Aufzählungspunkte         |
-| - Professor XYZ                                | - Analyse                                        | - Zusammenfassung           |
-| - Redakteur von [Zielzeitschrift]              | - Listen kürzen                                  | - Tabelle/Grafik            |
-| - Doktorand in [bestimmtes Fachgebiet]         | - Referenzen entwerfen                           |                              |
+| **Rolle**                                | **Aufgabe / Ziel**                               | **Format**                  |
+|------------------------------------------|--------------------------------------------------|-----------------------------|
+| - Wissenschaftlicher Fachautor           | - Frage formulieren                              | - PDF                       |
+| - Ronald C. Kessler                      | - Verfassen einer Zusammenfassung                | - Aufzählungspunkte         |
+| - Professor XYZ                          | - Analyse                                        | - Zusammenfassung           |
+| - Redakteur von [Zielzeitschrift]        | - Listen kürzen                                  | - Tabelle/Grafik            |
+| - Mitarbeiter in [bestimmtes Fachgebiet] | - Referenzen entwerfen                           |                              |
 
 <br>
 
