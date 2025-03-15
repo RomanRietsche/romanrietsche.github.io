@@ -121,9 +121,9 @@ sections:
           tag: SCESC
         - name: DigitBot
           tag: DigitBot
-        - name: Digital Coach
+        - name: Digital Coaching
           tag: DigitalCoach
-        - name: Reflect
+        - name: Reflective Writing
           tag: Reflect
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
