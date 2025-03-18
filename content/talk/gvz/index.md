@@ -64,6 +64,22 @@ draft: false  # Ensure it's published
 
 ---
 
+
+Klassifizieren Sie den Satz als positiv oder negativ.
+
+Denken Sie Schritt für Schritt und erklären Sie, warum der Text als positiv oder negativ identifiziert wird.
+
+Zum Beispiel:
+Satz: „Gleicher Mist, anderer Tag“
+Sentiment: Der Satz verwendet das Wort „Mist“. „Mist“ wird allgemein als vulgär oder unhöflich angesehen. Daher ist das Sentiment negativ.
+
+Satz: „Dieses Produkt hat mein Leben verändert, ich bin jetzt viel produktiver“
+Sentiment: Das Produkt, über das gesprochen wird, hat den Benutzer produktiver gemacht. Produktivität wird im Allgemeinen positiv wahrgenommen. Daher ist das Sentiment positiv.
+
+Satz: <<Fügen Sie hier Ihren eigenen Satz ein>>
+Sentiment:
+
+
 # Workshop Prompts
 
 Nachstehend finden Sie die in diesem Workshop verwendeten Prompts.
@@ -174,6 +190,9 @@ Ziel ist es, die Genauigkeit bei der Risikoeinschätzung oder das Schadenmanagem
 
 <br>
 
+
+
+---
 
 
 # Anleitung zur kritischen Selbstreflexion und Textverbesserung
