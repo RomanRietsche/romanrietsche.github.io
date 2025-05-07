@@ -65,21 +65,6 @@ draft: false  # Ensure it's published
 ---
 
 
-Klassifizieren Sie den Satz als positiv oder negativ.
-
-Denken Sie Schritt für Schritt und erklären Sie, warum der Text als positiv oder negativ identifiziert wird.
-
-Zum Beispiel:
-Satz: „Gleicher Mist, anderer Tag“
-Sentiment: Der Satz verwendet das Wort „Mist“. „Mist“ wird allgemein als vulgär oder unhöflich angesehen. Daher ist das Sentiment negativ.
-
-Satz: „Dieses Produkt hat mein Leben verändert, ich bin jetzt viel produktiver“
-Sentiment: Das Produkt, über das gesprochen wird, hat den Benutzer produktiver gemacht. Produktivität wird im Allgemeinen positiv wahrgenommen. Daher ist das Sentiment positiv.
-
-Satz: <<Fügen Sie hier Ihren eigenen Satz ein>>
-Sentiment:
-
-
 # Workshop Prompts
 
 Nachstehend finden Sie die in diesem Workshop verwendeten Prompts.
@@ -176,13 +161,14 @@ d) Entwurf von Prompts für die Mensch-Computer-Interaktion
 
 
 ## Beispiel E-mail:
-
+```
 Stellen Sie sich vor, Sie schreiben eine geschäftliche E-Mail, um Finanzierung für ein Innovationsprojekt im Bereich der Gebäudeversicherung im Kanton Zürich, Schweiz, zu beantragen.
 Handeln Sie als Unternehmen mit dem Fokus auf die Verbesserung von Risikobewertungen und Schadensprävention durch den Einsatz von Technologie oder Schulungsressourcen für Versicherungsfachleute.
 
 Verfassen Sie eine detaillierte E-Mail-Zusammenfassung des Projektvorschlags, in der ein fortschrittliches Analyseinstrument oder ein Schulungsprogramm vorgestellt und dessen Einführung sowie Evaluierung beschrieben wird. 
 
 Ziel ist es, die Genauigkeit bei der Risikoeinschätzung oder das Schadenmanagement nachhaltig zu optimieren.
+```
 
 <br>
 
@@ -359,14 +345,38 @@ Bitten Sie nach der Beantwortung einer Frage um Erlaubnis, mit der nächsten for
 
 <br>
 
+# Few-Shot Prompt
+
+```
+Klassifizieren Sie den Satz als positiv oder negativ.
+
+Denken Sie Schritt für Schritt und erklären Sie, warum der Text als positiv oder negativ identifiziert wird.
+
+Zum Beispiel:
+Satz: „Gleicher Mist, anderer Tag“
+Sentiment: Der Satz verwendet das Wort „Mist“. „Mist“ wird allgemein als vulgär oder unhöflich angesehen. Daher ist das Sentiment negativ.
+
+Satz: „Dieses Produkt hat mein Leben verändert, ich bin jetzt viel produktiver“
+Sentiment: Das Produkt, über das gesprochen wird, hat den Benutzer produktiver gemacht. Produktivität wird im Allgemeinen positiv wahrgenommen. Daher ist das Sentiment positiv.
+
+Satz: <<Fügen Sie hier Ihren eigenen Satz ein>>
+Sentiment:
+
+```
+
+<br>
+
 ---
 
 <br>
 
 # Chain-of-thoughts (CoT)
 
+```
+
 Lassen Sie uns dies Schritt für Schritt ausarbeiten, um sicherzustellen, dass wir die richtige Antwort haben.
 Geben Sie zunächst die Begründung an und dann die Antwort.
+```
 
 <br>
 
