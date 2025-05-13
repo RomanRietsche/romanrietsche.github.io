@@ -388,24 +388,42 @@ Geben Sie zunächst die Begründung an und dann die Antwort.
 
 Agarwal, R., Singh, A., Zhang, L. M., Bohnet, B., Chan, S., Anand, A., Abbas, Z., Nova, A., Co-Reyes, J. D., Chu, E., Behbahani, F., Faust, A., and Larochelle, H. 2024. Many-Shot In-Context Learning, arXiv. (http://arxiv.org/abs/2404.11018).
 “AI Tutor.” 2023. , January 1. (https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor).
+
 Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray, S., Chess, B., Clark, J., Berner, C., McCandlish, S., Radford, A., Sutskever, I., and Amodei, D. 2020. “Language Models Are Few-Shot Learners,” , May 28. (http://arxiv.org/pdf/2005.14165v4).
+
 Bsharat, S. M., Myrzakhan, A., and Shen, Z. 2023. Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4, [object Object]. (https://doi.org/10.48550/ARXIV.2312.16171).
+
 Chia, Y. K., Chen, G., Tuan, L. A., Poria, S., and Bing, L. 2023. “Contrastive Chain-of-Thought Prompting,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2311.09277).
+
 Gao, S., Dwivedi-Yu, J., Yu, P., Tan, X. E., Pasunuru, R., Golovneva, O., Sinha, K., Celikyilmaz, A., Bosselut, A., and Wang, T. 2024. “Efficient Tool Use with Chain-of-Abstraction Reasoning,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2401.17464).
+
 Gunasekar, S., Zhang, Y., Aneja, J., Mendes, C. C. T., Del Giorno, A., Gopi, S., Javaheripi, M., Kauffmann, P., Rosa, G., Saarikivi, O., Salim, A., Shah, S., Behl, H. S., Wang, X., Bubeck, S., Eldan, R., Kalai, A. T., Lee, Y. T., and Li, Y. 2023. “Textbooks Are All You Need,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2306.11644).
+
 Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., and Neubig, G. 2021. “Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2107.13586).
+
 Park, J. S., O’Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., and Bernstein, M. S. 2023. “Generative Agents: Interactive Simulacra of Human Behavior,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2304.03442).
+
 Peng, B., Galley, M., He, P., Cheng, H., Xie, Y., Hu, Y., Huang, Q., Liden, L., Yu, Z., Chen, W., and Gao, J. 2023. “Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2302.12813).
 “Prompt Engineering Guide.” (n.d.). (https://www.promptingguide.ai/).
+
 Schulhoff, Sander, Ilie, M., Balepur, N., Kahadze, K., Liu, A., Si, C., Li, Y., Gupta, A., Han, H., Schulhoff, Sevien, Dulepet, P. S., Vidyadhara, S., Ki, D., Agrawal, S., Pham, C., Kroiz, G., Li, F., Tao, H., Srivastava, A., Da Costa, H., Gupta, S., Rogers, M. L., Goncearenco, I., Sarli, G., Galynker, I., Peskoff, D., Carpuat, M., White, J., Anadkat, S., Hoyle, A., and Resnik, P. 2024. The Prompt Report: A Systematic Survey of Prompting Techniques, arXiv. (http://arxiv.org/abs/2406.06608).
+
 Servantez, S., Barrow, J., Hammond, K., and Jain, R. 2024. “Chain of Logic: Rule-Based Reasoning with Large Language Models,” , January 1. (http://arxiv.org/pdf/2402.10400v2).
+
 Shinn, N., Cassano, F., Labash, B., Gopinath, A., Narasimhan, K., and Yao, S. 2023. “Reflexion: Language Agents with Verbal Reinforcement Learning,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2303.11366).
+
 Sun, J., Luo, Y., Gong, Y., Lin, C., Shen, Y., Guo, J., and Duan, N. 2023. “Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2304.11657).
+
 Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., Chowdhery, A., and Zhou, D. 2022. “Self-Consistency Improves Chain of Thought Reasoning in Language Models,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2203.11171).
+
 Wang, Z., Mao, S., Wu, W., Ge, T., Wei, F., and Ji, H. 2023. “Unleashing Cognitive Synergy in Large Language Models: A Task-Solving  Agent through Multi-Persona Self-Collaboration,” , July 11. (http://arxiv.org/pdf/2307.05300v2).
+
 Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E., Le, Q., and Zhou, D. 2022. “Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2201.11903).
+
 Wu, T., Terry, M., and Cai, C. J. 2022. “AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts,” in CHI Conference on Human Factors in Computing Systems, S. Barbosa, C. Lampe, C. Appert, D. A. Shamma, S. Drucker, J. Williamson, and K. Yatani (eds.), New York, NY, USA: ACM, pp. 1–22. (https://doi.org/10.1145/3491102.3517582).
+
 Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., and Cao, Y. 2022. “ReAct: Synergizing Reasoning and Acting in Language Models,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2210.03629).
+
 Yao, Y., Li, Z., and Zhao, H. 2023. “Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models,” arXiv, January 1. (https://doi.org/10.48550/arXiv.2305.16582).
 
 
