@@ -2,7 +2,7 @@
 title: DigiBot
 summary: DigiBot leverages AI to personalize digital skills assessments by adapting standardized questions to individual user profiles, enhancing relevance and engagement while balancing clarity and complexity for diverse skill levels.
 tags:
-  - DigitBot
+  - AI & LLM Systems
 date: '2024-01-01'
 
 # Optional external URL for project (replaces project detail page).

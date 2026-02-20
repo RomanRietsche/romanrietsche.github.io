@@ -2,7 +2,7 @@
 title: Digital Coaching
 summary: The Digital Coach project demonstrates that transparently sharing an AI’s intermediate reasoning—framed with humility—enhances user trust, engagement, and outcomes in coaching and educational settings.
 tags:
-  - DigitalCoach
+  - Digital Interventions
 date: '2022-02-01'
 
 # Optional external URL for project (replaces project detail page).
