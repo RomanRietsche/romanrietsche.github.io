@@ -2,7 +2,7 @@
 title: "Information Sharing in the Metaverse"
 summary: "Investigating how bystander presence and technological immersion (laptop vs. VR headset) affect users' willingness to share personal information in metaverse environments, with implications for privacy design in virtual worlds."
 tags:
-  - Metaverse
+  - Digital Interventions
 date: '2025-01-01'
 
 external_link: ''

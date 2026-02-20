@@ -2,7 +2,7 @@
 title: Learning Objective and Outcome Manager (LOOM)
 summary: 
 tags:
-  - LOOM
+  - AI & LLM Systems
 date: '2016-06-01'
 
 # Optional external URL for project (replaces project detail page).

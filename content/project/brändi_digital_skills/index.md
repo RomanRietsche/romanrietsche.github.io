@@ -2,7 +2,7 @@
 title: "Brandi Digital Skills"
 summary: "Collaborated with Stiftung Brandi to systematically develop digital skill profiles, create a Role-Skill-Matrix based on the DigiComp framework, and design targeted re- and upskilling programs for employees in the social sector."
 tags:
-  - Brandi
+  - Re- & Upskilling
 date: '2023-01-01'
 
 external_link: ''

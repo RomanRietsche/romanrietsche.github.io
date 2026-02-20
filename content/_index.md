@@ -115,22 +115,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: LOOM
-          tag: LOOM
-        - name: SCESC
-          tag: SCESC
-        - name: DigitBot
-          tag: DigitBot
-        - name: Digital Coaching
-          tag: DigitalCoach
-        - name: BeLEARN Coach
-          tag: BeLEARNCoach
-        - name: Reflective Writing
-          tag: Reflect
-        - name: Metaverse
-          tag: Metaverse
-        - name: Brandi
-          tag: Brandi
+        - name: AI & LLM Systems
+          tag: AI & LLM Systems
+        - name: Digital Interventions
+          tag: Digital Interventions
+        - name: Re- & Upskilling
+          tag: Re- & Upskilling
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
