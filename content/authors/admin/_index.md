@@ -60,7 +60,7 @@ email: 'roman.rietsche@bfh.ch'
 highlight_name: true
 ---
 
-I hold a professorship in Digital Technology Management at Bern University of Applied Sciences, specializing at the nexus of educational technology, psychology, and human-computer interaction.
+I am a Research Professor for Information Systems and AI at Bern University of Applied Sciences, specializing at the nexus of educational technology, psychology, and human-computer interaction.
 
 My research follows three connected work streams: (1) developing effective information systems that embed artificial intelligence and large language models, 
 (2) designing and measuring behavior change through digital interventions, and (3) evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling.
