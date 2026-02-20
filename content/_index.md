@@ -123,10 +123,14 @@ sections:
           tag: DigitBot
         - name: Digital Coaching
           tag: DigitalCoach
+        - name: BeLEARN Coach
+          tag: BeLEARNCoach
         - name: Reflective Writing
           tag: Reflect
         - name: Metaverse
           tag: Metaverse
+        - name: Brandi
+          tag: Brandi
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
