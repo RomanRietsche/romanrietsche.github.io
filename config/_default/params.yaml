@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Roman Rietsche - Research Professor for Information Systems and AI at Bern University of Applied Sciences. Research on AI in education, digital coaching, and re- and upskilling.'
+    twitter: ''
   analytics:
     google_analytics: 'G-HPDKQ8E5ZX'
   verification:
@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Roman Rietsche. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/RomanRietsche/romanrietsche.github.io'
     content_dir: content
     branch: main
   avatar:
