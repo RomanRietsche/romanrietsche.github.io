@@ -115,12 +115,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: AI & LLM Systems
-          tag: AI & LLM Systems
+        - name: AI and LLM Systems
+          tag: AI and LLM Systems
         - name: Digital Interventions
           tag: Digital Interventions
-        - name: Re- & Upskilling
-          tag: Re- & Upskilling
+        - name: Re- and Upskilling
+          tag: Re- and Upskilling
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

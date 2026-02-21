@@ -2,7 +2,7 @@
 title: "BeLEARN: Conversational AI-Driven Coach"
 summary: "Built and deployed a GPT-based Socratic tutor for a university statistics course, comparing tutoring strategies and deriving design guidelines for controllable LLM-based educational coaching systems. Funded by BeLEARN."
 tags:
-  - AI & LLM Systems
+  - AI and LLM Systems
 date: '2025-01-01'
 
 external_link: ''
