@@ -1,6 +1,6 @@
 ---
 title: Digital Coaching
-summary: The Digital Coach project demonstrates that transparently sharing an AI’s intermediate reasoning—framed with humility—enhances user trust, engagement, and outcomes in coaching and educational settings.
+summary: Investigated how transparently sharing an AI coach's intermediate reasoning, framed with epistemic humility, affects user trust, engagement, and coaching outcomes in educational settings.
 tags:
   - Digital Interventions
 date: '2022-02-01'
@@ -16,39 +16,24 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 ---
 
-# Digital Coaching
+## The Challenge
 
-## Digital Coach: Enhancing User Experience with Transparent AI Reasoning
+AI-based coaching systems typically operate as black boxes, delivering recommendations without revealing their internal reasoning. This lack of transparency can erode user trust, particularly when outcomes do not meet expectations. As AI coaches increasingly support learners in setting and pursuing personal development goals, the question arose whether making the AI's reasoning process visible would improve or hinder the user experience, and whether the way that reasoning is framed matters.
 
-Imagine interacting with an AI coach who doesn't just give you answers but shows you exactly how it thinks and why it offers certain suggestions. The Digital Coach project explores precisely this idea, diving deep into how openly sharing an AI's "thought processes"—known as intermediate reasoning—impacts user experiences, particularly in coaching scenarios aimed at personal growth and educational goals.
+## Approach and Methods
 
-## Why is this important?
+The project conducted controlled experiments and real-world field studies with university students who interacted with an AI-based coaching system over the course of a semester. The experimental conditions varied along two dimensions: whether the AI displayed its intermediate reasoning steps to the user, and how that reasoning was framed. The "factive" framing used assertive language ("I know that..."), while the "non-factive" framing used epistemically humble language ("I believe that..."). The studies measured user trust, expectation confirmation, working alliance (the perceived quality of the coach-user relationship), and academic outcomes.
 
-Traditional AI systems often act like black boxes, delivering solutions without revealing their internal logic. This lack of transparency can lead users to distrust the AI, especially when unexpected outcomes occur. Our research shows that AI becomes significantly more effective when it openly displays its reasoning in a way that's easy for users to understand, creating better engagement, trust, and outcomes.
+## Key Findings
 
-## What did we discover?
+Displaying the AI's intermediate reasoning in an epistemically humble, non-factive manner ("I believe..." rather than "I know...") significantly improved user satisfaction and trust. This modest framing set realistic expectations, reduced disappointment from inevitable minor errors, and strengthened the working alliance between the AI coach and the user. Students who regularly interacted with the transparently reasoning AI coach reported better progress toward their personal educational goals, and their engagement correlated with higher academic performance.
 
-Through controlled experiments and real-world testing with students, we discovered that framing the AI's internal reasoning clearly but humbly—using expressions like "I believe…" rather than assertive statements like "I know…"—dramatically improves user satisfaction. This modest framing sets realistic expectations, reduces disappointment from inevitable minor mistakes, and strengthens the relationship between the AI coach and the user, known as the "working alliance."
+## Implications
 
-### Practical outcomes
+For practitioners designing AI coaching, tutoring, or customer support systems, the findings offer a clear design guideline: expose the AI's reasoning process to users, but frame it with appropriate humility. Assertive language risks creating expectations the system cannot consistently meet, while humble framing builds a more resilient and trusting relationship. This principle extends beyond education to any domain where AI systems provide personalized guidance.
 
-- **Higher Trust and Engagement:** Users who saw the AI's intermediate reasoning, especially in a non-factive ("I think…") manner, reported feeling their expectations were met more effectively.
-- **Better Coaching Results:** Students using this kind of digital coach showed increased satisfaction and reported better progress towards their personal educational goals.
-- **Real Academic Impact:** Regular interactions with transparently reasoning AI coaches correlated with higher academic performance.
+## Team and Funding
 
-## What does this mean for you?
-
-For anyone looking to integrate AI into coaching, education, or customer support, the Digital Coach project's findings offer a clear roadmap. By carefully managing how AI systems express their thought processes, you can enhance user trust, satisfaction, and ultimately achieve better outcomes.
-
-This research pushes the boundaries of how we interact with AI, emphasizing transparency and humility to create smarter, more empathetic, and effective digital companions.
-
-
+The digital coaching research was part of the SCESC Innosuisse Flagship project. It was led by Andreas Goldi (University of St. Gallen) and Prof. Dr. Roman Rietsche (BFH), investigating how AI-driven coaching systems can transparently support learners. The project was funded by Innosuisse as part of the SCESC Flagship (2022 to 2025).

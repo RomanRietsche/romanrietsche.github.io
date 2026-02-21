@@ -1,7 +1,6 @@
 ---
 title: "Reflective Writing for Personal Development: Leveraging AI for Scalable Learning"
-
-summary: Leveraging AI, our project transforms reflective writing in education by providing personalized, scalable feedback and insights, empowering learners to develop essential future skills for sustainable development.
+summary: Developing an AI-powered conversational reflection guide and journey dashboard that scales personalized reflective writing feedback to thousands of learners, funded by Innosuisse with a consortium of seven Swiss institutions.
 tags:
   - Digital Interventions
 date: '2026-01-01'
@@ -17,39 +16,24 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 ---
 
-# Reflective Writing for Personal Development: Leveraging AI for Scalable Learning
+## The Challenge
 
-**Empowering Learners Through AI-Driven Reflection**
+Reflective writing is a key pedagogical method for developing metacognition, self-awareness, and competencies required for addressing global challenges such as the United Nations' Sustainable Development Goals. The World Economic Forum estimated that 71% of workers will need significant re- or upskilling, and reflective practice supports this transition. However, universities face substantial implementation barriers: providing tailored, personalized feedback on reflective writing requires intensive instructor involvement that does not scale beyond small seminar formats. As a result, students in large courses lack the guided feedback that is essential for developing reflective writing skills.
 
-Our project harnesses the power of cutting-edge AI to transform reflective writing in education. Reflective writing is a critical skill that fosters metacognition, self-awareness, and the development of competencies essential for tackling global challenges like the United Nations' Sustainable Development Goals (SDGs).
+## Approach and Methods
 
-## Our Innovations
+The project develops two complementary AI-powered innovations integrated into the product of the implementation partner Rflect AG. The first is a conversational reflection guide that provides step-by-step, dialog-based feedback on students' reflective writing. The guide incorporates cognitive and motivational parameters from each learner to provide dynamically tailored support, using techniques such as chain-of-thought prompting, chain-of-abstraction, and self-reflection. The second innovation is a Reflective Journey Dashboard that visualizes each student's reflection development over time, while giving educators aggregated views of competence development across an entire class. Both innovations are being tested with implementation partners across seven Swiss higher education institutions including ZHDK, ZHAW, FHNW, HWZ, and ETH.
 
-- **Conversational Reflection Guide:**  
-  An AI-powered guide that provides personalized, step-by-step feedback to learners. It adapts dynamically to each student's needs, helping them develop deeper reflective skills through engaging dialogues.
+## Key Findings
 
-- **Reflective Journey Dashboard:**  
-  A comprehensive dashboard offering visual insights into a student's reflection journey. Educators receive aggregated data to understand overall competence development, while students track their personal growth.
+The project is ongoing. Results from the field evaluations across partner institutions are expected by mid-2026.
 
-## Why It Matters
+## Implications
 
-- **Scalable Learning:** Overcomes the scalability barriers of traditional teaching methods, enabling personalized feedback for thousands of learners.
-- **Enhanced Competence Development:** Supports growth in metacognition, emotional intelligence, and other key future skills.
-- **Data-Driven Insights:** Offers educators actionable insights to enhance learning outcomes.
+The project addresses a fundamental tension in higher education: the pedagogical value of reflective writing is well established, but its implementation at scale remains impractical without technological support. By combining AI-driven conversational guidance with learning analytics dashboards, the project aims to create a model for scaling personalized pedagogical interventions that were previously limited to small-group settings. The approach is designed to be transferable to any educational context where structured reflection is used for competence development.
 
-## Impact Goals
+## Team and Funding
 
-- Engage **10,000+ students** by the end of the project and **300,000+** within five years.
-- Establish a **SaaS-based business model** with sustainable growth.
-- Contribute significantly to global educational advancements and sustainable development initiatives.
-
-Join us in shaping the future of education—where AI meets meaningful learning.
+The project is led by Prof. Dr. Roman Rietsche (BFH, Institute for Digital Technology Management) with Thiemo Wambsganss (BFH) and Anna Jasinenko (University of St. Gallen) as research partners. Rflect AG serves as the primary implementation partner. The project is funded by Innosuisse (project number 114.545 IP-ICT, August 2024 to May 2026).

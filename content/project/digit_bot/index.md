@@ -1,6 +1,6 @@
 ---
 title: DigiBot
-summary: DigiBot leverages AI to personalize digital skills assessments by adapting standardized questions to individual user profiles, enhancing relevance and engagement while balancing clarity and complexity for diverse skill levels.
+summary: Developed and evaluated an AI chatbot that personalizes standardized digital competence assessments based on individual user profiles, revealing that adaptive question generation improves relevance for advanced users while beginners prefer standardized formats.
 tags:
   - AI and LLM Systems
 date: '2024-01-01'
@@ -16,54 +16,24 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 ---
 
-# DigiBot: Personalized AI-Driven Digital Skills Assessment
+## The Challenge
 
-**Can AI personalize assessment tests?**  
-The DigiBot project explores this question. The chatbot uses ChatGPT to adapt standardized assessment questions based on individual user profiles, making tests feel more relevant and engaging. The project tested how personalized questions compare to traditional ones—revealing surprising insights about AI's role in education.
+Standardized digital skills assessments based on frameworks such as the European DigComp often feel disconnected from the daily work of the person being tested. A cybersecurity question written for a generic audience may not resonate with a marketing professional, reducing engagement and potentially misrepresenting actual competence levels. At the same time, manually creating role-specific assessment variants for every profession is impractical. The question was whether generative AI could adapt standardized assessment items to individual user contexts while preserving measurement consistency.
 
-## The Challenge: Making Tests More Relevant
+## Approach and Methods
 
-Standardized tests often feel disconnected from real-life experiences, making them less effective. This project tackled the challenge by leveraging the EU's DigComp framework, which assesses digital skills like information literacy and cybersecurity. The goal was to personalize these assessments while maintaining consistency and reliability.
+DigiBot was implemented as a two-stage conversational chatbot. In the first stage, the bot engaged users in a brief profiling conversation, asking about their job role, daily tasks, and self-assessed digital skills. In the second stage, the system used ChatGPT to transform standardized DigComp assessment questions to match the user's professional context. For instance, a marketer received questions about identifying fake customer inquiries, while an IT administrator received questions focused on email security protocols. Users were then shown both original and personalized versions and asked to evaluate each on relevance, clarity, and preference.
 
-## The Innovative Approach: AI-Powered Personalization
+## Key Findings
 
-DigiBot personalizes assessments in two key steps:
+The evaluation revealed a clear trade-off between clarity and relevance. Original standardized questions scored higher on clarity and ease of understanding, while AI-personalized questions scored higher on contextual relevance and detail. User preferences split along competence levels: beginners preferred the simpler, standardized questions, while advanced users appreciated the deeper, profession-specific AI-generated versions. Personalized questions were most valued when they accurately reflected the user's actual professional background, suggesting that profiling quality is a critical upstream factor.
 
-1. **User Profiling**: DigiBot first engages users in a brief conversation, asking about their job role, daily tasks, and self-assessed digital skills. This creates a detailed profile to tailor questions effectively.
+## Implications
 
-2. **Question Personalization**: Using ChatGPT, DigiBot transforms standardized questions to match the user’s context. For instance, a marketer might receive a question about identifying fake customer inquiries, while an IT admin might focus on email security.
+The results suggest that a one-size-fits-all approach to AI personalization in assessment is insufficient. Effective personalization needs to adapt not only the question content but also the complexity level to the user's proficiency. For organizations deploying digital skills assessments at scale, a hybrid approach that offers standardized questions as a baseline with optional AI-personalized variants based on user profile and competence level appears most promising.
 
-Users were then asked to choose between original and AI-personalized questions, providing feedback on relevance and clarity.
+## Team and Funding
 
-## Key Results
-
-- **Clarity vs. Relevance**: Original questions were easier to understand, while AI-generated ones felt more detailed and context-specific.
-- **User Preferences**: Beginners preferred simpler, original questions. Advanced users appreciated the deeper, profession-specific AI-generated versions.
-- **Personalization Impact**: Tailored questions were valued when they accurately reflected the user's background.
-
-## Future Steps
-
-To enhance DigiBot's performance, the next developments include:
-
-- **Short-Term Improvements**:
-  - Enhance user profiling with smarter follow-up questions.
-  - Simplify and clarify AI-generated questions using readability metrics.
-  - Refine how user preferences are collected and analyzed.
-
-- **Long-Term Developments**:
-  - Fine-tune AI models for better personalization.
-  - Implement user-driven feedback loops for continuous improvement.
-  - Optimize system efficiency by caching frequent questions and using cost-effective models.
-
----
-
-DigiBot shows that AI can make assessments more engaging by personalizing them to individual experiences. The next phase will focus on refining this balance between relevance and simplicity, paving the way for smarter, user-centered testing solutions.
+The project was conducted at the Bern University of Applied Sciences (BFH), Institute for Digital Technology Management, led by Prof. Dr. Roman Rietsche. The project was funded through BFH's Humane Digital Transformation strategic thematic field.
