@@ -34,4 +34,6 @@ abstract: Natural Language Processing (NLP) has become increasingly utilized to 
   of not counteracting biases in language models for educational tasks.
 tags:
 - /unread
+projects:
+- LOOM
 ---

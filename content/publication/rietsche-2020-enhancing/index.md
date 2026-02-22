@@ -9,4 +9,6 @@ publication_types:
 - thesis
 tags:
 - Rietsche
+projects:
+- LOOM
 ---

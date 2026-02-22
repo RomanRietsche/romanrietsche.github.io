@@ -12,4 +12,6 @@ publication: '*Proceedings of the International Conference on Information System
 links:
 - name: URL
   url: https://aisel.aisnet.org/icis2025/learn_curricula/learn_curricula/1
+projects:
+- reflective_writing
 ---

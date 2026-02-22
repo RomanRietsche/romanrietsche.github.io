@@ -46,12 +46,12 @@ sections:
               Research Interests:
               1. Developing effective information systems that embed artificial intelligence and large language models.
               2. Designing and measuring behavior change through digital interventions.
-              3. Evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling 
-            
-              Head of Research Lab for AI-based re- and upskilling (LAIRU) 
-                * Development of AI tools e.g.: for digital onboarding, personalized learning paths, automated situative judgement tests
-                * Design of a holistic Human Centric Re- and Upskilling Framework for organizations
-                * Consulting
+              3. Evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling
+
+              Head of [HAIS Lab](https://haislab.com/) (Human-Centered AI-based Learning Systems Lab)
+                * Personalized learning support using ML and NLP from an HCI perspective
+                * AI tools for digital onboarding, adaptive feedback, and reflective writing
+                * Design and evaluation of human-centered learning systems
                         
         - title: External Lecturer
           company: University of St. Gallen 
@@ -265,19 +265,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you want to learn more about my work. Get in contact.
+        If you want to learn more about my work, feel free to reach out.
       # Contact (add or remove contact options as necessary)
       email: roman.rietsche@bfh.ch
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 

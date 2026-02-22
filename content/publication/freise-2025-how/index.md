@@ -12,4 +12,6 @@ publishDate: '2026-02-20T22:12:42.305874Z'
 publication_types:
 - article-journal
 publication: '*MIS Quarterly Executive*'
+projects:
+- SCESC
 ---

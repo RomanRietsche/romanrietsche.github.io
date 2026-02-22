@@ -15,4 +15,6 @@ doi: 10.2139/ssrn.3966150
 links:
 - name: URL
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966150
+projects:
+- SCESC
 ---

@@ -12,4 +12,6 @@ publication_types:
 publication: '*Handbook of Teaching with Technology in Management, Leadership, and
   Business*'
 doi: 10.4337/9781789901658.00047
+projects:
+- LOOM
 ---

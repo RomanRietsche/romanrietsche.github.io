@@ -11,4 +11,6 @@ publication_types:
 - paper-conference
 publication: "*CHI Conference on Human Factors in Computing Systems (CHI '25)*"
 doi: 10.1145/3706598.3713606
+projects:
+- digital_coach
 ---

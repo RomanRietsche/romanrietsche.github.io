@@ -28,4 +28,6 @@ abstract: Peer feedback in online education becomes increasingly important to me
   labelled the corpus and achieved an inter-annotator agreement of 0.71. With the
   help of an expert arbitrator a gold standard was created. An automatic classification
   using BERT achieved an accuracy of 75.3%.
+projects:
+- LOOM
 ---

@@ -23,10 +23,20 @@ organizations:
 bio: My research interests include AI in Education, Human-centered Re- and Upskilling Digital Interventions.
 
 # Interests to show in About widget
-
-
+interests:
+  - Human-Centered AI Systems
+  - AI in Education
+  - Digital Coaching and Feedback
+  - Natural Language Processing for Learning
+  - Digital Interventions and Behavior Change
+  - Re- and Upskilling
 
 # Education to show in About widget
+education:
+  courses:
+    - course: Dr. oec. HSG
+      institution: University of St. Gallen
+      year: 2022
 
 
 # Social/Academic Networking
@@ -46,6 +56,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://ch.linkedin.com/in/roman-rietsche-08108b151
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-6112-1709
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -60,18 +73,15 @@ email: 'roman.rietsche@bfh.ch'
 highlight_name: true
 ---
 
-I am a Research Professor for Information Systems and AI at Bern University of Applied Sciences, specializing at the nexus of educational technology, psychology, and human-computer interaction.
+I am a Research Professor for Information Systems and AI at Bern University of Applied Sciences and head of the [HAIS Lab](https://haislab.com/) (Human-Centered AI-based Learning Systems Lab), specializing at the nexus of educational technology, psychology, and human-computer interaction.
 
-My research follows three connected work streams: (1) developing effective information systems that embed artificial intelligence and large language models, 
-(2) designing and measuring behavior change through digital interventions, and (3) evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling.
+My research follows three connected work streams: (1) developing effective information systems that embed artificial intelligence and large language models, (2) designing and measuring behavior change through digital interventions, and (3) evaluating the impact of digital technologies on organizations in the context of reskilling and upskilling.
 
-One of my key achievement is the LOOM feedback system, which has enhanced the educational experience of over 2,000 students across the United States, Germany, and Switzerland. 
+One of my key achievements is the LOOM feedback system, which has enhanced the educational experience of over 2,000 students across the United States, Germany, and Switzerland.
 
-I led the Swiss Circular Economy of Skills and Competences (SCESC) project (2022-2025), funded by a 6 million Swiss franc grant from Innosuisse.
-This project united a multidisciplinary team with researchers from EHB, EPFL, HSG-IWP, HSG-IWI, UZH and ZHAW and the implementation partner X28.
+I led the Swiss Circular Economy of Skills and Competences (SCESC) project (2022-2025), funded by a 6 million Swiss franc grant from Innosuisse. This project united a multidisciplinary team with researchers from EHB, EPFL, HSG-IWP, HSG-IWI, UZH and ZHAW and the implementation partner X28.
 
 Collaborations with industry, particularly in digital re-skilling and up-skilling, include partnerships with Siemens AG, Volkswagen AG, and Stiftung Brändi.
-
 
 {style="text-align: justify;"}
 

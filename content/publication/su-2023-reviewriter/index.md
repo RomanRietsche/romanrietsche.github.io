@@ -13,4 +13,6 @@ publication_types:
 publication: '*Proceedings of the 18th Workshop on Innovative Use of NLP for Building
   Educational Applications (BEA 2023)*'
 doi: 10.18653/v1/2023.bea-1.5
+projects:
+- LOOM
 ---

@@ -17,4 +17,6 @@ tags:
 - management education
 - Rietsche
 - Technology-Mediated Learning
+projects:
+- LOOM
 ---

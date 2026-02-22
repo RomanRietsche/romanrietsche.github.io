@@ -34,4 +34,6 @@ abstract: "Large Language Models (LLMs) are increasingly utilized in educational
   without LLM suggestions. Our research is therefore optimistic about the use of AI
   writing support in the classroom, showcasing a context where bias in LLMs does not
   transfer to students' responses.  Accepted as a full paper at EMNLP Findings 2023"
+projects:
+- LOOM
 ---

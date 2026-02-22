@@ -14,4 +14,6 @@ publication: '*Proceedings of the 16th International Conference on Wirtschaftsin
 abstract: ARRAY(0x556d1f573608)
 tags:
 - Digital Feedback;feedback;Organization;Simulation
+projects:
+- SCESC
 ---
