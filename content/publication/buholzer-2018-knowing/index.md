@@ -18,4 +18,6 @@ tags:
 - Hofstede?s cultural dimension theory
 - Massive Open Online Courses
 - Rietsche
+projects:
+- LOOM
 ---

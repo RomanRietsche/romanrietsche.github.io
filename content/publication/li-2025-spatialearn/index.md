@@ -14,4 +14,6 @@ publication_types:
 publication: '*Proceedings of the Extended Abstracts of the CHI Conference on Human
   Factors in Computing Systems*'
 doi: 10.1145/3706599.3719742
+projects:
+- reflective_writing
 ---

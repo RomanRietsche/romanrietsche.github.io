@@ -11,4 +11,6 @@ publication_types:
 - chapter
 publication: '*Workshop on Information Technologies and Systems (WITS) in Conjunction
   with the 42nd International Conference on Information Systems (ICIS)*'
+projects:
+- SCESC
 ---

@@ -29,4 +29,6 @@ abstract: 'While writing peer reviews resembles an important task in science, ed
   in user-centered assistants.'
 tags:
 - /unread
+projects:
+- LOOM
 ---

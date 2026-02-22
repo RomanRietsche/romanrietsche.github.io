@@ -16,4 +16,6 @@ publication: '*Proceedings of the 17th Internationale Tagung Wirtschaftsinformat
   (WI)*'
 tags:
 - Educational Process Mining
+projects:
+- SCESC
 ---

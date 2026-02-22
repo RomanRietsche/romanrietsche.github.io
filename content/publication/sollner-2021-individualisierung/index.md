@@ -13,4 +13,6 @@ publication_types:
 publication: '*Zeitschrift für Berufs- und Wirtschaftspädagogik*'
 tags:
 - Hybrid Intelligence
+projects:
+- SCESC
 ---

@@ -14,4 +14,6 @@ publication: '*Hawaii International Conference on System Sciences*'
 doi: 10.24251/HICSS.2023.020
 tags:
 - /unread
+projects:
+- SCESC
 ---

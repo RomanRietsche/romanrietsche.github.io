@@ -32,4 +32,6 @@ abstract: With the growth of online learning through MOOCs and other educational
   specificity of sentences in feedback texts has a weak positive correlation with
   perceptions of helpfulness. This indicates that specificity is one of the ingredients
   of good feedback, and invites further investigation.
+projects:
+- LOOM
 ---

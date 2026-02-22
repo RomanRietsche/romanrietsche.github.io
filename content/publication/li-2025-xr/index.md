@@ -13,4 +13,6 @@ publication: '*Proceedings of the International Conference on Information System
 links:
 - name: URL
   url: https://aisel.aisnet.org/icis2025/imm_tech/imm_tech/5
+projects:
+- reflective_writing
 ---

@@ -11,4 +11,6 @@ publication_types:
 - article-journal
 publication: '*Academy of Management Learning & Education*'
 doi: 10.5465/amle.2022.0188
+projects:
+- LOOM
 ---

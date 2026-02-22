@@ -23,4 +23,6 @@ abstract: In an age of life-long learning, it is important that adult learners c
   two intervention types as factors and goal attainment as the dependent variable.
   Results will indicate avenues for automating skilled conversation including choice
   of technology.
+projects:
+- digital_coach
 ---

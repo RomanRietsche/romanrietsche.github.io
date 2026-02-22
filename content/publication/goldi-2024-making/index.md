@@ -22,4 +22,6 @@ abstract: Large Language Models (LLMs) have had major impact in society even tho
   engagement with future developments.
 tags:
 - /unread
+projects:
+- digital_coach
 ---

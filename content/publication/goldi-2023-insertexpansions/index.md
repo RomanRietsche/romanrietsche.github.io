@@ -25,4 +25,6 @@ tags:
 - 'FOS: Computer and information sciences'
 - H.5
 - Human-Computer Interaction (cs.HC)
+projects:
+- digital_coach
 ---

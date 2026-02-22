@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Roman Rietsche # Website name
-baseURL: 'romanrietsche.github.io' # Website URL
+baseURL: 'https://romanrietsche.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -30,7 +30,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10

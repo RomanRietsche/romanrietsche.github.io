@@ -14,4 +14,6 @@ links:
 - name: URL
   url: 
     https://www.societybyte.swiss/2025/04/16/digibot-ein-personalisiertes-ki-tool-zur-selbsteinschaetzung-digitaler-kompetenzen/
+projects:
+- digit_bot
 ---

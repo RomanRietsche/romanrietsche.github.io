@@ -31,4 +31,6 @@ abstract: In today's digital transformation era, process mining has emerged as a
   and reflect on the effectiveness of process mining for tackling procurement issues.
 tags:
 - /unread
+projects:
+- SCESC
 ---

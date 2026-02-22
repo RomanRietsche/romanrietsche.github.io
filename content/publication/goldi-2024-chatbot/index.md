@@ -10,4 +10,6 @@ publication_types:
 publication: '*International Conference on Information Systems (ICIS) 2024*'
 tags:
 - /unread
+projects:
+- digital_coach
 ---

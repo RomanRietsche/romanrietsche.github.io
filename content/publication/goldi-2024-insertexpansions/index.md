@@ -24,4 +24,6 @@ abstract: AI agents use language generation for internal reasoning and interacti
   human-chatbot interaction loop.
 tags:
 - /unread
+projects:
+- digital_coach
 ---

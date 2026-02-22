@@ -20,4 +20,6 @@ tags:
 - large-scale class
 - Rietsche
 - Technology-Mediated Learning
+projects:
+- LOOM
 ---

@@ -10,4 +10,6 @@ publication_types:
 publication: '*International Conference on Information Systems (ICIS)*'
 tags:
 - Rietsche
+projects:
+- LOOM
 ---

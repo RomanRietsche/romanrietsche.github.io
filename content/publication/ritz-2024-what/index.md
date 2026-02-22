@@ -29,4 +29,6 @@ abstract: The fast-paced acceleration of digitalization requires extensive re-&u
   paths in intra-organizational re-&upskilling.
 tags:
 - skill_profile
+projects:
+- SCESC
 ---

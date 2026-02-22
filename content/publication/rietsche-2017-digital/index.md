@@ -18,4 +18,6 @@ tags:
 - HIGHER education
 - large-scale class
 - Rietsche
+projects:
+- LOOM
 ---
