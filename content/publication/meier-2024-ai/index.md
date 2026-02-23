@@ -21,6 +21,4 @@ abstract: There is a near overflow of presentation slides on digital platforms, 
   the current understanding of the assessment of online documents, introducing possibilities
   for further research, such as focusing on domain-specific applications and incorporating
   them as tools for decision support in content management systems on sharing platforms.
-tags:
-- /unread
 ---

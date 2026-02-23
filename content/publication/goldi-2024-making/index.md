@@ -20,8 +20,6 @@ abstract: Large Language Models (LLMs) have had major impact in society even tho
   To address this, we introduce a typology grounded in recent research that provides
   a structured framework for understanding LLM-based agents, facilitating proactive
   engagement with future developments.
-tags:
-- /unread
 projects:
 - digital_coach
 ---

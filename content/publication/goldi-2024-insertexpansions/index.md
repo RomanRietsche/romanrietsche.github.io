@@ -22,8 +22,6 @@ abstract: AI agents use language generation for internal reasoning and interacti
   the user's role in guiding agent reasoning. This research is especially relevant
   as AI agents become increasingly common, and holds significance for optimizing the
   human-chatbot interaction loop.
-tags:
-- /unread
 projects:
 - digital_coach
 ---
