@@ -26,7 +26,6 @@ abstract: Creating and disseminating high-quality presentation slides have be co
   presentation slides. For  practitioners, we offer a set of generalized design principles
   and design features  for the implementation in the development of an AI-based SESS.
 tags:
-- /unread
 - Design Science Research
 - Generative AI
 - Presentation Slides

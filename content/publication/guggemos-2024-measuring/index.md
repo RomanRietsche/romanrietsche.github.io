@@ -29,7 +29,6 @@ abstract: "Technological advancements, particularly in artificial intelligence, 
   shows favorable properties, e.g., Cronbach's alpha $>$ .75, and may be suitable
   for the efficient assessment of CT across higher education programs."
 tags:
-- /unread
 - Assessment
 - Computational Thinking
 - Higher Education

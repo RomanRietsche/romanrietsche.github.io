@@ -29,8 +29,6 @@ abstract: In today's digital transformation era, process mining has emerged as a
   in high-volume data scenarios and equips them with skills in data literacy. Moreover,
   students are challenged to suggest recommendations for long-term process optimization
   and reflect on the effectiveness of process mining for tackling procurement issues.
-tags:
-- /unread
 projects:
 - SCESC
 ---

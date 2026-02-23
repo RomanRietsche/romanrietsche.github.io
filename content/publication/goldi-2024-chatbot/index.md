@@ -8,8 +8,6 @@ publishDate: '2025-01-21T14:54:44.016180Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Information Systems (ICIS) 2024*'
-tags:
-- /unread
 projects:
 - digital_coach
 ---
