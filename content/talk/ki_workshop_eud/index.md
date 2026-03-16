@@ -32,8 +32,8 @@ https://tiktokenizer.vercel.app
 |-----------------------------|-----------------------------------------------------------------------------------------------|
 | **Clarity and Understanding** | - Use delimiters for clarity (e.g., `### text ###`)<br>- Consider providing examples for correct output (few-shot prompting)                        |
 | **Specificity and Detailing** | - Specify desired output format<br>- Specify output length. Think in natural quantities, like "a dozen"                          |
-| **Context and Relevance**   | - Define Role (e.g., "You are a translator.")<br>- Audience and Purpose (e.g., "Translate for an Italian audience looking for fresh products.") |
-| **Separating in Smaller Packages** | - Include Step-by-Step Instructions (e.g., "First, translate to Italian. Next, make it catchy.") |
+| **Context and Relevance**   | - Define Role (e.g., "You are a registered dietitian.")<br>- Audience and Purpose (e.g., "Write for patients with newly diagnosed type 2 diabetes.") |
+| **Separating in Smaller Packages** | - Include Step-by-Step Instructions (e.g., "First, assess the nutritional profile. Next, suggest meal alternatives.") |
 | **Conditioning for Questions** | - Ask me questions for clarification |
 | **Task-list** | - For state tracking use a task-list |
 
@@ -50,15 +50,15 @@ Use this framework for the 7-minute exercise.
 ```
 Role (R)
 Define the role the AI is playing.
-Example: "You are a real estate analyst."
+Example: "You are a registered dietitian specializing in clinical nutrition."
 
 Objective (O)
 Articulate the goal of the conversation.
-Example: "Help me analyze Chicago industrial cap rates."
+Example: "Help me create a 7-day meal plan for a patient with iron-deficiency anemia."
 
 Details (D)
 Specific details about the objective.
-Example: "Results should include comps with xyz characteristics."
+Example: "The patient is vegetarian, lactose-intolerant, and needs at least 18mg iron per day. Include bioavailability-enhancing food combinations."
 
 Examples (E)
 Provide examples of ideal results.
@@ -66,7 +66,7 @@ Show the AI a few examples of what a good result looks like.
 
 Sense Check (S)
 Confirm understanding.
-Example: "Before performing the analysis, do you have any questions?"
+Example: "Before creating the meal plan, do you have any questions about the patient's dietary restrictions?"
 ```
 
 <br>
@@ -98,15 +98,15 @@ Horizontal Rule: ---
 
 ```
 
-Develop a series of multiple-choice questions to assess understanding of "prompt techniques" among workshop participants.
+You are an expert in nutrition science and dietetics education. Develop a series of multiple-choice questions to assess understanding of "prompt techniques" among nutrition and dietetics professionals attending a workshop.
 
 # Task
-Ensure that the questions are clear and focus on the main topics of the presentation on "Prompt Techniques".
+Ensure that the questions are clear and focus on how prompt engineering can be applied in nutrition counseling, meal planning, patient communication, and food science contexts.
 Each question should contain one correct answer and several plausible distractors.
-Look for a mix of difficulty levels of the questions to properly assess the different levels of understanding.
+Look for a mix of difficulty levels to properly assess the different levels of understanding.
 
 # Steps
-1. Identify the main topics and objectives of the presentation on "Prompt Engineering".
+1. Identify the main topics and objectives of the presentation on "Prompt Engineering" as it applies to nutrition and dietetics work.
 2. Develop questions that address these key topics and ensure that they assess understanding, application and analysis where possible.
 3. Develop a range of multiple-choice options for each question, including one correct answer and three distractor options.
 4. Review the questions for clarity and relevance to the presentation material.
@@ -124,18 +124,18 @@ Question: [Text of the question]
 
 # Examples
 
-**Question**: What is "prompt engineering"?
+**Question**: A dietitian wants to use AI to simplify a complex lab report for a patient. Which prompting strategy is most effective?
 
-a) The process of creating and refining prompts to efficiently instruct AI models (Correct answer)
-b) The building of physical components for computer systems
-c) The development of software for data analysis
-d) Designing prompts for human-computer interaction
+a) "Simplify this report"
+b) "You are a registered dietitian. Rewrite the following lab report in plain language for a patient with limited health literacy. Explain what each value means for their nutrition." (Correct answer)
+c) "Translate this to simple words"
+d) "Make this easier"
 
 ...
 
 # Notes
-- Include questions that address definitions, practical applications, and potential pitfalls in "prompt engineering."
-- Consider scenario-based questions to test applied understanding.
+- Include questions that address definitions, practical applications in nutrition/dietetics, and potential pitfalls in "prompt engineering."
+- Consider scenario-based questions involving meal planning, patient education, and dietary analysis.
 - Avoid excessive jargon unless it has been explicitly covered in the presentation.
 
 ```
@@ -146,20 +146,20 @@ d) Designing prompts for human-computer interaction
 
 <br>
 
-# Few-Shot Prompt: Corporate Identity LinkedIn-Post
+# Few-Shot Prompt: Nutrition & Dietetics LinkedIn-Post
 
 ```
 Example 1
-Topic: Innovation in the Company
-"Together we shape the future! 🚀 Innovation means for us to take new paths and to constantly question existing processes. Only through the courage to change can sustainable solutions arise. We are proud to work in an environment that fosters creative thinking and bold ideas. What innovation has most recently changed the way you work?"
+Topic: Sustainable Nutrition
+"What we eat shapes not only our health but our planet. 🌱 Shifting towards plant-forward diets can reduce food-related emissions by up to 50%. As nutrition professionals, we have the responsibility to guide evidence-based choices that nourish people and protect ecosystems. What is one sustainable swap you recommend to your clients?"
 
 Example 2
-Topic: Employee Development
-"Our employees are the heart of our success. 💡 That's why we continuously invest in training and individual development opportunities. We believe that personal growth is the foundation of entrepreneurial success. Which skills would you like to strengthen this year?"
+Topic: Personalized Nutrition
+"One size does not fit all when it comes to nutrition. 🧬 Advances in nutrigenomics and microbiome research are transforming how we design dietary interventions. Personalized nutrition plans that account for genetics, lifestyle, and individual metabolism are the future of dietetics. How are you integrating personalized approaches into your practice?"
 
 Example 3
-Topic: Sustainability
-"Sustainability starts with small decisions that have a big impact. 🌿 We are committed to resource-efficient processes and responsible partnerships, because the future requires responsibility. How do you make your work more sustainable?"
+Topic: Food Literacy
+"Understanding food labels should not require a science degree. 📋 Yet many consumers struggle to interpret nutritional information. As dietitians, we bridge this gap by translating complex data into actionable advice. What is the most common misconception about food labels you encounter?"
 
 Now write a LinkedIn post for the topic: <<INSERT YOUR TOPIC>>
 ```
@@ -294,11 +294,11 @@ Provide reasoning first and then the answer.
 
 | **Role**                        | **Task / Aim**                 | **Format**                  |
 |---------------------------------|--------------------------------|-----------------------------|
-| Expert Science Writer         | Formulate questions | PDF                        |
-| Ronald C. Kessler             | Write an abstract            | Bullet points              |
-| Professor XYZ                 | Analysis                     | Summary                    |
-| Editor from [target] journal  | Condense lists               | Table/Chart                |
-| Employee in [specific field] | Draft references           |                              |
+| Registered Dietitian         | Create a meal plan | Table with macros                        |
+| Clinical Nutritionist             | Summarize a patient case            | Bullet points              |
+| Food Science Researcher                 | Analyze nutrient interactions                     | Summary                    |
+| Editor from Journal of Nutrition  | Condense literature review               | Table/Chart                |
+| Public Health Nutritionist | Draft dietary guidelines           | Structured report                              |
 
 <br>
 
