@@ -3,7 +3,7 @@ title: 'Generative KI in der Bildungsforschung'
 type: event
 location: 'University of Fribourg, Switzerland'
 summary: 'Prompt Engineering for Educational Research'
-date: '2026-04-06'
+date: '2026-04-09'
 tags: [ki_workshop_bildungsforschung]
 draft: false
 ---
@@ -267,19 +267,6 @@ Answer each question in 200 words using a specific template. Tailor the template
 **Step 7**
 
 After answering a question, ask permission to proceed to the next, ensuring a methodical and reflective process.
-```
-
-<br>
-
----
-
-<br>
-
-# Chain-of-Thoughts (CoT)
-
-```
-Let's work this out in a step by step way to be sure we have the right answer.
-Provide reasoning first and then the answer.
 ```
 
 <br>
