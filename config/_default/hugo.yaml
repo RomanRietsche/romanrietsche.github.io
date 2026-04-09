@@ -31,6 +31,7 @@ module:
 ############################
 
 enableGitInfo: true
+buildFuture: true  # Build pages with future dates (e.g. upcoming talks/workshops)
 summaryLength: 30
 pagination:
   pagerSize: 10
